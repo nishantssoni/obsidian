@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9c9db2f2f67076",
+        "id": "b5b4d65dc9b4cc62",
         "type": "tabs",
         "children": [
           {
-            "id": "be2c714f46af502f",
+            "id": "47ca111f47bc2550",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+            }
+          },
+          {
+            "id": "19ad3a2c8d3ce790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Others/applied ai.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "applied ai"
             }
           }
         ]
@@ -159,42 +174,43 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "be2c714f46af502f",
+  "active": "47ca111f47bc2550",
   "lastOpenFiles": [
-    "6 - Zettelkasten/Obsidian initial settings.md",
-    "3 - Tags/obsidian.md",
+    "2 - Source Material/Others/applied ai.md",
+    "3 - Tags/AAC.md",
     "6 - Zettelkasten/Obsidian shortcuts and Hotkeys.md",
-    "5 - Template/Main Notes.md",
-    "3 - Tags/hotkeys.md",
-    "4 - Index/What is index.md",
+    "6 - Zettelkasten/Tips to learn ai by AAC.md",
+    "6 - Zettelkasten/Things to learn in python for AI.md",
+    "6 - Zettelkasten/Python, Anaconda and relevant packages installations.md",
+    "6 - Zettelkasten/Python Variables and Data Types.md",
+    "6 - Zettelkasten/Python Standard Input and Output.md",
+    "6 - Zettelkasten/Obsidian initial settings.md",
+    "6 - Zettelkasten/Python Keywords and Identifiers.md",
+    "6 - Zettelkasten/Python Operators.md",
+    "6 - Zettelkasten/Learning prompts for ai.md",
+    "6 - Zettelkasten/About Python.md",
+    "3 - Tags/prompts.md",
+    "3 - Tags/operators.md",
+    "3 - Tags/data_types.md",
+    "6 - Zettelkasten/1, 5, 9], [2, 6, 10], [3, 7, 11.md",
+    "3 - Tags/python.md",
+    "3 - Tags/fileio.md",
+    "3 - Tags/identifiers.md",
+    "3 - Tags/installations.md",
+    "3 - Tags/ai.md",
+    "3 - Tags/things_to_learn.md",
     "2 - Source Material/Others/temp.md",
+    "3 - Tags/hotkeys.md",
+    "6 - Zettelkasten/insights of the world.md",
+    "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt",
+    "2 - Source Material/Others/Unconfirmed 51350.crdownload",
     "2 - Source Material/Others",
-    "6 - Zettelkasten/1.Obsidian Basic Settings.md",
-    "6 - Zettelkasten/Obsidian Basic Settings.md",
-    "6 - Zettelkasten/Obsidian basic settings.md",
-    "2 - Source Material/Videos/temp.md",
-    "2 - Source Material/Podcasts/temp.md",
-    "2 - Source Material/Papers/temp.md",
-    "2 - Source Material/Books/temp.md",
-    "2 - Source Material/Article/temp.md",
-    "1 - Rough Notes/temp.md",
-    "3 - Tags/plugin.md",
-    "3 - Tags/settings.md",
-    "3 - Tags/humility.md",
-    "6 - Zettelkasten/this is mazakkk about.md",
-    "6 - Zettelkasten/k-nearest neighobors.md",
-    "6 - Zettelkasten/is is tests.md",
-    "6 - Zettelkasten/good leaders are humble.md",
-    "6 - Zettelkasten/for the world.md",
     "6 - Zettelkasten",
     "5 - Template",
     "4 - Index",
     "this is mazak",
     "3 - Tags",
     "2 - Source Material/Videos",
-    "2 - Source Material/Podcasts",
-    "2 - Source Material/Papers",
-    "2 - Source Material/Books",
-    "Welcome.md"
+    "2 - Source Material/Podcasts"
   ]
 }
