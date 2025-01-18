@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "619264f8ab5830fd",
+        "id": "eb9c9db2f2f67076",
         "type": "tabs",
         "children": [
           {
-            "id": "e85923486e97172c",
+            "id": "be2c714f46af502f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,10 +159,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "039859f3e2d2c42c",
+  "active": "be2c714f46af502f",
   "lastOpenFiles": [
     "6 - Zettelkasten/Obsidian initial settings.md",
+    "3 - Tags/obsidian.md",
+    "6 - Zettelkasten/Obsidian shortcuts and Hotkeys.md",
     "5 - Template/Main Notes.md",
+    "3 - Tags/hotkeys.md",
     "4 - Index/What is index.md",
     "2 - Source Material/Others/temp.md",
     "2 - Source Material/Others",

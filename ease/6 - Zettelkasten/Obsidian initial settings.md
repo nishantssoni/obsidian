@@ -2,7 +2,7 @@
 
 Status:
 
-Tags:[[settings]] [[plugin]]
+Tags:[[settings]] [[plugin]] [[obsidian]]
 
 # Obsidian initial settings
 
@@ -10,6 +10,8 @@ Tags:[[settings]] [[plugin]]
 2. plugins:
 	1. obsidian://show-plugin?id=smart-random-note
 	2. obsidian://show-plugin?id=better-word-count
+3. Hotkeys
+	1. change template-insert hotkey to ctrl + T and remove new-tab hotkey
 
 # References
 https://youtu.be/hSTy_BInQs8?si=OhYyEyLpBuKDhpD2
