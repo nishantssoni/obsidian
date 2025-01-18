@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "e4fda6d2bc36ac1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "619264f8ab5830fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e85923486e97172c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc0468309bda56c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "af0e1838bb2c8a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039859f3e2d2c42c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "477bb06b174a3f0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06e6fed8d2879ade",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30460942be240230",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ad0b791a8b2498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc3ae1560ebd007",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "22aac6f6253f88c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "d3288c623716b0d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e880dbbe85f10325",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "039859f3e2d2c42c",
+  "lastOpenFiles": [
+    "6 - Zettelkasten/Obsidian initial settings.md",
+    "5 - Template/Main Notes.md",
+    "4 - Index/What is index.md",
+    "2 - Source Material/Others/temp.md",
+    "2 - Source Material/Others",
+    "6 - Zettelkasten/1.Obsidian Basic Settings.md",
+    "6 - Zettelkasten/Obsidian Basic Settings.md",
+    "6 - Zettelkasten/Obsidian basic settings.md",
+    "2 - Source Material/Videos/temp.md",
+    "2 - Source Material/Podcasts/temp.md",
+    "2 - Source Material/Papers/temp.md",
+    "2 - Source Material/Books/temp.md",
+    "2 - Source Material/Article/temp.md",
+    "1 - Rough Notes/temp.md",
+    "3 - Tags/plugin.md",
+    "3 - Tags/settings.md",
+    "3 - Tags/humility.md",
+    "6 - Zettelkasten/this is mazakkk about.md",
+    "6 - Zettelkasten/k-nearest neighobors.md",
+    "6 - Zettelkasten/is is tests.md",
+    "6 - Zettelkasten/good leaders are humble.md",
+    "6 - Zettelkasten/for the world.md",
+    "6 - Zettelkasten",
+    "5 - Template",
+    "4 - Index",
+    "this is mazak",
+    "3 - Tags",
+    "2 - Source Material/Videos",
+    "2 - Source Material/Podcasts",
+    "2 - Source Material/Papers",
+    "2 - Source Material/Books",
+    "Welcome.md"
+  ]
+}
