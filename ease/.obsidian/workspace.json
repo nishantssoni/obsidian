@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04562bbc6c17f29d",
+        "id": "abb20bd73f50c5e9",
         "type": "tabs",
         "children": [
           {
-            "id": "b036fb8a32b75c51",
+            "id": "3bae6afa4a0eccdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettelkasten/Numpy Broadcasting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Numpy Broadcasting"
+              "title": "New tab"
             }
           }
         ]
@@ -164,10 +159,32 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b036fb8a32b75c51",
+  "active": "039859f3e2d2c42c",
   "lastOpenFiles": [
-    "6 - Zettelkasten/Numpy Data Types.md",
+    "6 - Zettelkasten/Matplotlib Multiple figures.md",
+    "attachment/Pasted image 20250123134806.png",
+    "attachment/Pasted image 20250123134757.png",
+    "attachment/Pasted image 20250123134747.png",
+    "6 - Zettelkasten/Introduction to Matplotlib.md",
+    "attachment/Pasted image 20250122224125.png",
+    "attachment/Pasted image 20250122224334.png",
+    "attachment/Pasted image 20250122224318.png",
+    "attachment/Pasted image 20250122224305.png",
+    "attachment/Pasted image 20250122224147.png",
+    "3 - Tags/graph.md",
+    "3 - Tags/matplotlib.md",
+    "6 - Zettelkasten/Untitled 1.md",
+    "6 - Zettelkasten/Numpy Array Shape Manupulation.md",
     "6 - Zettelkasten/Numpy Broadcasting.md",
+    "6 - Zettelkasten/Untitled.md",
+    "6 - Zettelkasten/Numpy.md",
+    "6 - Zettelkasten/Learning prompts for ai.md",
+    "6 - Zettelkasten/Numpy Array basics.md",
+    "6 - Zettelkasten/Python Variables and Data Types.md",
+    "attachment/Applied AI-Machine Learning course syllabus.pdf",
+    "4 - Index/APPLIED AI COURSE SYLLABUS.md",
+    "3 - Tags/recursive.md",
+    "6 - Zettelkasten/Numpy Data Types.md",
     "attachment",
     "attachment/02.05-broadcasting.png",
     "3 - Tags/broadcasting.md",
@@ -176,23 +193,10 @@
     "6 - Zettelkasten/Numpy Numerical and Logical Operations.md",
     "6 - Zettelkasten/Numpy Indexing and Slicing.md",
     "6 - Zettelkasten/Python Debugging.md",
-    "6 - Zettelkasten/Numpy Array basics.md",
     "3 - Tags/numpy.md",
     "3 - Tags/array.md",
     "6 - Zettelkasten/Python Exception Handling.md",
     "3 - Tags/exception_handling.md",
-    "6 - Zettelkasten/Python File Handling.md",
-    "6 - Zettelkasten/Python Standard Input and Output.md",
-    "6 - Zettelkasten/Python Package.md",
-    "3 - Tags/python.md",
-    "3 - Tags/fileio.md",
-    "6 - Zettelkasten/Python Variables and Data Types.md",
-    "6 - Zettelkasten/Python Modules.md",
-    "6 - Zettelkasten/Python Sets.md",
-    "6 - Zettelkasten/Python Functions.md",
-    "6 - Zettelkasten/Python Control Flow.md",
-    "3 - Tags/recursive.md",
-    "2 - Source Material/Others/applied ai.md",
     "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt",
     "2 - Source Material/Others/Unconfirmed 51350.crdownload",
     "2 - Source Material/Others",
@@ -200,7 +204,6 @@
     "5 - Template",
     "4 - Index",
     "this is mazak",
-    "3 - Tags",
-    "2 - Source Material/Videos"
+    "3 - Tags"
   ]
 }
