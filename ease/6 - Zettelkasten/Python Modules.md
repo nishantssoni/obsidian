@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[python]] 
+Tags: [[python]] [[modules]]
 
 # Python Modules
 

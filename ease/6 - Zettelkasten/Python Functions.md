@@ -6,7 +6,7 @@ Tags: [[python]] [[functions]] [[recursive]]
 
 # Python Functions
 
-## part 1
+## Part 1
 ---
 
 ### **1. Function Definition**

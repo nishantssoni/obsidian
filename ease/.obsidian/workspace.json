@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "abb20bd73f50c5e9",
+        "id": "c92890f69531b646",
         "type": "tabs",
         "children": [
           {
-            "id": "3bae6afa4a0eccdd",
+            "id": "20547765143ae0e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettelkasten/Python Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Python Functions"
             }
           }
         ]
@@ -159,17 +164,21 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "039859f3e2d2c42c",
+  "active": "20547765143ae0e4",
   "lastOpenFiles": [
-    "6 - Zettelkasten/Matplotlib Multiple figures.md",
-    "attachment/Pasted image 20250123134806.png",
     "attachment/Pasted image 20250123134757.png",
     "attachment/Pasted image 20250123134747.png",
+    "attachment/Pasted image 20250122224334.png",
+    "attachment/Pasted image 20250122224305.png",
+    "attachment/Applied AI-Machine Learning course syllabus.pdf",
+    "attachment/02.05-broadcasting.png",
+    "3 - Tags/modules.md",
+    "6 - Zettelkasten/Python Modules.md",
+    "6 - Zettelkasten/Matplotlib Multiple figures.md",
+    "attachment/Pasted image 20250123134806.png",
     "6 - Zettelkasten/Introduction to Matplotlib.md",
     "attachment/Pasted image 20250122224125.png",
-    "attachment/Pasted image 20250122224334.png",
     "attachment/Pasted image 20250122224318.png",
-    "attachment/Pasted image 20250122224305.png",
     "attachment/Pasted image 20250122224147.png",
     "3 - Tags/graph.md",
     "3 - Tags/matplotlib.md",
@@ -181,12 +190,10 @@
     "6 - Zettelkasten/Learning prompts for ai.md",
     "6 - Zettelkasten/Numpy Array basics.md",
     "6 - Zettelkasten/Python Variables and Data Types.md",
-    "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "4 - Index/APPLIED AI COURSE SYLLABUS.md",
     "3 - Tags/recursive.md",
     "6 - Zettelkasten/Numpy Data Types.md",
     "attachment",
-    "attachment/02.05-broadcasting.png",
     "3 - Tags/broadcasting.md",
     "6 - Zettelkasten/Numpy Statistics Operations.md",
     "3 - Tags/statistics.md",
@@ -195,8 +202,6 @@
     "6 - Zettelkasten/Python Debugging.md",
     "3 - Tags/numpy.md",
     "3 - Tags/array.md",
-    "6 - Zettelkasten/Python Exception Handling.md",
-    "3 - Tags/exception_handling.md",
     "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt",
     "2 - Source Material/Others/Unconfirmed 51350.crdownload",
     "2 - Source Material/Others",
