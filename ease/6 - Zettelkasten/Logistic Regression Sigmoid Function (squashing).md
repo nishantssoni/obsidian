@@ -64,8 +64,8 @@ The sigmoid function is differentiable and has a probabilistic interpretation, w
 
 - Maximizing the sum of signed distances is prone to outliers.
 - We aim to maximize the sum of the sigmoid of signed distances, which is **outlier-resistant**.
-	- ![[image.7XM202.png]]
-- The sigmoid function is differentiable, which is essential for solving optimization problems.
+	- $W^{*}=argmax\left( \sum \frac{1}{\exp(-y_{i}W^{T}x_{i})} \right)$
+- Sigmoid is easily differentiable and has probabilistic interpretation which helps in solving the optimization problem.
 
 
 
