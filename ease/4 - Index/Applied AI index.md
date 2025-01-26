@@ -4,5 +4,6 @@
 	2. [[Logistic Regression Sigmoid Function (squashing)]]
 	3. [[Logistic Regression Mathematic Formulation of Objective Function]]
 	4. [[Logistic Regression Weight Vector]]
-	5. 
+	5. [[Logistic Regression L2 Regularization Overfitting and Underfitting]]
+	6. 
 	

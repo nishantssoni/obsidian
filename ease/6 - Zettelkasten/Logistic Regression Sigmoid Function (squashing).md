@@ -55,7 +55,8 @@ Here, we have $t = y_i * W^T x_i$.
 - The range of the sigmoid function is [0, 1].
 - The distances are squashed from $[-\infty, +\infty]$ to [0, 1].
 
-The sigmoid function is differentiable and has a probabilistic interpretation, which helps in solving the optimization problem. For example:
+==The sigmoid function is differentiable and has a probabilistic interpretation, which helps in solving the optimization problem.== 
+For example:
 - If a point lies on the hyperplane ($W^T x = 0$), the probability of the point belonging to the positive or negative class is 0.5. This can be seen from $\text{sigmoid}(0) = 0.5$.
 
 ---
@@ -66,9 +67,5 @@ The sigmoid function is differentiable and has a probabilistic interpretation, w
 - We aim to maximize the sum of the sigmoid of signed distances, which is **outlier-resistant**.
 	- $W^{*}=argmax\left( \sum \frac{1}{\exp(-y_{i}W^{T}x_{i})} \right)$
 - Sigmoid is easily differentiable and has probabilistic interpretation which helps in solving the optimization problem.
-
-
-
-
 
 # References
