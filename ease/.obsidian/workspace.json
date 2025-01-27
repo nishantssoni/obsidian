@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "e4fda6d2bc36ac1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c42431c38317b72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5c14b06cb4fff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logistic Regression L2 Regularization Overfitting and Underfitting"
+            }
+          },
+          {
+            "id": "9c6186c47b95ae2a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachment/Applied AI-Machine Learning course syllabus.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Applied AI-Machine Learning course syllabus"
+            }
+          },
+          {
+            "id": "e6f3b4f6c5305d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Index/Applied AI index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Applied AI index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc0468309bda56c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "af0e1838bb2c8a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039859f3e2d2c42c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "477bb06b174a3f0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#math",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06e6fed8d2879ade",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30460942be240230",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ad0b791a8b2498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc3ae1560ebd007",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "22aac6f6253f88c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "d3288c623716b0d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e880dbbe85f10325",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "df5c14b06cb4fff5",
+  "lastOpenFiles": [
+    "3 - Tags/data_structure.md",
+    "3 - Tags/operators.md",
+    "3 - Tags/string.md",
+    "3 - Tags/things_to_learn.md",
+    "3 - Tags/settings.md",
+    "3 - Tags/recursive.md",
+    "3 - Tags/python.md",
+    "3 - Tags/matplotlib.md",
+    "3 - Tags/ml_algorithm.md",
+    "3 - Tags/ml_techniques.md",
+    "4 - Index/What is index.md",
+    "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
+    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
+    "6 - Zettelkasten/Logistic Regression Weight Vector.md",
+    "6 - Zettelkasten/Logistic Regression Sigmoid Function (squashing).md",
+    "6 - Zettelkasten/Regularization.md",
+    "attachment/Applied AI-Machine Learning course syllabus.pdf",
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/Python Tuples.md",
+    "attachment/Pasted image 20250126145314.png",
+    "Pasted image 20250126145135.png",
+    "attachment/Pasted image 20250126145114.png",
+    "3 - Tags/regression.md",
+    "6 - Zettelkasten/Matplotlib Multiple figures.md",
+    "6 - Zettelkasten/Logistic Regression Geometric Intuition.md",
+    "6 - Zettelkasten/Python Modules.md",
+    "3 - Tags/modules.md",
+    "attachment/Pasted image 20250125144736.png",
+    "6 - Zettelkasten/Numpy Broadcasting.md",
+    "3 - Tags/vector.md",
+    "6 - Zettelkasten/Sigmoid Function.md",
+    "attachment/image.7XM202.png",
+    "Untitled.canvas",
+    "attachment/image.DSZW02.png",
+    "attachment/image.SKHB12.png",
+    "attachment/image.NE7V02.png",
+    "attachment/image.J5GC12.png",
+    "attachment/Pasted image 20250123134806.png",
+    "attachment",
+    "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt",
+    "2 - Source Material/Others/Unconfirmed 51350.crdownload",
+    "2 - Source Material/Others",
+    "6 - Zettelkasten",
+    "5 - Template",
+    "4 - Index",
+    "this is mazak",
+    "3 - Tags"
+  ]
+}
