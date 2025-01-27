@@ -11,15 +11,10 @@
             "id": "df5c14b06cb4fff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Logistic Regression L2 Regularization Overfitting and Underfitting"
+              "title": "New tab"
             }
           },
           {
@@ -48,8 +43,21 @@
               "icon": "lucide-file",
               "title": "Applied AI index"
             }
+          },
+          {
+            "id": "02aa9cf4975f64df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-27 12.19.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-27 12.19.57.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,11 +196,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "smart-random-note:Open Random Note from Search": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df5c14b06cb4fff5",
+  "active": "02aa9cf4975f64df",
   "lastOpenFiles": [
+    "4 - Index/Applied AI index.md",
+    "Excalidraw/Drawing 2025-01-27 12.19.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-27 12.15.49.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-27 12.10.42.excalidraw.md",
+    "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
+    "attachment/Applied AI-Machine Learning course syllabus.pdf",
+    "Excalidraw/Drawing 2025-01-27 12.10.42.excalidraw.svg",
+    "Screenshot from 2024-12-28 15-23-25.png",
+    "Excalidraw",
     "3 - Tags/data_structure.md",
     "3 - Tags/operators.md",
     "3 - Tags/string.md",
@@ -204,13 +221,10 @@
     "3 - Tags/ml_algorithm.md",
     "3 - Tags/ml_techniques.md",
     "4 - Index/What is index.md",
-    "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
     "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
     "6 - Zettelkasten/Logistic Regression Weight Vector.md",
     "6 - Zettelkasten/Logistic Regression Sigmoid Function (squashing).md",
     "6 - Zettelkasten/Regularization.md",
-    "attachment/Applied AI-Machine Learning course syllabus.pdf",
-    "4 - Index/Applied AI index.md",
     "6 - Zettelkasten/Python Tuples.md",
     "attachment/Pasted image 20250126145314.png",
     "Pasted image 20250126145135.png",
@@ -221,16 +235,11 @@
     "6 - Zettelkasten/Python Modules.md",
     "3 - Tags/modules.md",
     "attachment/Pasted image 20250125144736.png",
-    "6 - Zettelkasten/Numpy Broadcasting.md",
-    "3 - Tags/vector.md",
-    "6 - Zettelkasten/Sigmoid Function.md",
     "attachment/image.7XM202.png",
     "Untitled.canvas",
     "attachment/image.DSZW02.png",
     "attachment/image.SKHB12.png",
     "attachment/image.NE7V02.png",
-    "attachment/image.J5GC12.png",
-    "attachment/Pasted image 20250123134806.png",
     "attachment",
     "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt",
     "2 - Source Material/Others/Unconfirmed 51350.crdownload",
@@ -238,7 +247,6 @@
     "6 - Zettelkasten",
     "5 - Template",
     "4 - Index",
-    "this is mazak",
-    "3 - Tags"
+    "this is mazak"
   ]
 }

@@ -16,6 +16,7 @@ $$W^{*}=argmin_{w}\left( \sum_{i=1}^{n} \log(1+\exp(-Z_{i}) \right)$$
 
 Now if we plot $\exp(-Z_{i})$ then it is always $\exp(-Z_{i})\geq0$
 then we can say that,
+
 ![[Pasted image 20250126145314.png]]
 
 $$
