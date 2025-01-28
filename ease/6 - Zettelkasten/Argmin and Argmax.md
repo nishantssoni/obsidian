@@ -27,10 +27,10 @@ $$
 2. If $f(x) = -x^2 + 4x$, then:
    - $\text{argmax}_x f(x) = 2$
 
-## Notes
-- The result of **argmin** or **argmax** is the **input value(s)**, not the actual minimum or maximum value.
-- If multiple inputs achieve the same extremum, the result may be a set of values.
-- Commonly used in optimization and decision-making problems.
+> [!note] 
+>  - The result of **argmin** or **argmax** is the **input value(s)**, not the actual minimum or maximum value.
+>  -  If multiple inputs achieve the same extremum, the result may be a set of values.
+>  - Commonly used in optimization and decision-making problems.
 
 
 # References
