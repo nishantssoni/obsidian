@@ -18,9 +18,9 @@ Key points about weight vectors in logistic regression:
 - **Learning process:**
     During training, the model learns and updates the values of the weight vector through optimization algorithms like gradient descent, aiming to find the best combination of weights that maximizes the accuracy of the prediction. 
     
-Example:
 
-Imagine predicting whether a customer will purchase a product based on features like age, income, and education level. The weight vector would contain values for each of these features, where a high weight for "income" would mean that income plays a significant role in determining the purchase probability. 
+> [!example] 
+>  Imagine predicting whether a customer will purchase a product based on features like age, income, and education level. The weight vector would contain values for each of these features, where a high weight for "income" would mean that income plays a significant role in determining the purchase probability. 
 
 
 ### optimization problem
@@ -36,11 +36,13 @@ Imagine predicting whether a customer will purchase a product based on features 
 **Probabilistic interpretation:**
 - $P(y_{q} = +1)$ = $sigmoid(W^{T}x_{q})$  (Remember the need for sigmoid function: squashing)
 
-**Interpretation of Weight vectors:**
-Case 1:
-- if $W_{i} = +ve$ then if $X_{qi}$ increases $W_{i}x_{qi}$  increases, $sigmoid(W^{T}x_{q})$ increases, then $P(y_{q} = +1)$ increases.
-case 2
-- If $W_{i} = -ve$  then if $X_{qi}$ increases $W_{i}x_{qi}$ decreases, $sigmoid(W^{T}x_{q})$ decreases, then $P(y_{q} = +1)$  decreases and then $P(y_{q} = -1)$ increases.
+> [!important] 
+>  **Interpretation of Weight vectors:**
+>  Case 1:
+>  - if $W_{i} = +ve$ then if $X_{qi}$ increases $W_{i}x_{qi}$  increases, $sigmoid(W^{T}x_{q})$ increases, then $P(y_{q} = +1)$ increases.
+> 
+> Case 2:
+> - If $W_{i} = -ve$  then if $X_{qi}$ increases $W_{i}x_{qi}$ decreases, $sigmoid(W^{T}x_{q})$ decreases, then $P(y_{q} = +1)$  decreases and then $P(y_{q} = -1)$ increases.
 
 # References
 [[Logistic Regression Mathematic Formulation of Objective Function]]
