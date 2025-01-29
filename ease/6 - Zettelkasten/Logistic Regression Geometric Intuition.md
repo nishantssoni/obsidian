@@ -65,4 +65,11 @@ $$ \sum_{i=0}^n y_i * W^T x_i $$
 The new $W$ is:  
 $$ W' = \arg \max \left( \sum_{i=0}^n y_i * W^T x_i \right) $$
 
+> [!info] 
+> There are three interpretation we can use to solve Logistic regression
+> 1. Geometric intuition
+> 2. Probablity intuition
+> 3. Loss minimization
+
+
 # References

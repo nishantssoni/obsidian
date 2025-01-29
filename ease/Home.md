@@ -27,18 +27,18 @@ dv.table(["Metric", "Value"], [
 ]);
 
 ```
-
-
+#### calendar
 ```dataview
-table total_hour, study_rating from "7 - Calendar" limit 3
+table from "7 - Calendar" limit 3
 ```
-### Currently Running Indexes
-1. [[Applied AI index]]
-
-### Future YTD Watch
+#### Index
+```dataview
+table from "4 - Index"
+```
+#### Future YTD Watch
 1. [[NN zero to Hero by Andrej]]
 
-### Pending Projects source YTD
+#### Pending Projects source YTD
 1. [[tennis analysis using Opencv]]
 2. [[Building a Social API using Fast API]]
 

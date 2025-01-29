@@ -45,7 +45,7 @@ $$
 - the train data may contain outliers to which the model has been perfectly fitted.
 
 **The overfitting tendency is constrained by using L2 regularization:**
-- here W is normal to the hyperplace so $W^{T}W = 1$
+- here W is normal to the hyperplane so $W^{T}W = ||W||^{2}$
 
 $$
 W^{*}=argmin_{w}\left( \sum_{i=1}^{n} \log(1+\exp(-y_{i}W^{T}x_{i})  + \lambda W^{T}W \right)
@@ -57,18 +57,25 @@ $$
 W^{*}=argmin_{w}\left( \sum_{i=1}^{n} \log(1+\exp(-y_{i}W^{T}x_{i})  + \lambda (||W||^{2})_{2} \right)
 $$
 - the subscript in $W^{2}$ is notation that it is L2 regularization.
-- The regularization term will constrain $W^{*}$ from reaching +infinity or - infinity becaue if $W \to \infty$ then the whole equation tends to infinity so it can't be -ve or +ve infinity.
+- The regularization term will constrain $W^{*}$ from reaching $\pm \infty$ becaue if $W \to \infty$ then $||W||^{2} \to \infty$ ,then the whole equation tends to infinity so it can't be $\pm \infty$.
 - λ is a hyper parameter of regularization, this is determined using cross validation.
 
-If λ = 0:
-- there is not regularization.
-- the loss term optimization results in an overfitting model $\to$ high variance.
+> [!note] 
+>  if λ = 0:
+>  - there is not regularization.
+>  - the loss term optimization results in an overfitting model $\to$ high variance.
+>  
+>  If λ is large:
+>  - then the loss term is diminished.
+>  - the training data does not participate in the optimization and we are just optimizing for the regularization term.
+>  - this leads to an underfitting model $\to$ high bias.
 
-If λ is large:
-- then the loss term is diminished.
-- the training data does not participate in the optimization and we are just optimizing for the regularization term.
-- this leads to an underfitting model $\to$ high bias.
+> [!info] 
+> You will see lots of machine learning using forms:
+> - minimizing( loss-function +  regularization-term) 
+
 
 # References
 [[Regularization]]
+[[cross validation]]
 [[Logistic Regression Mathematic Formulation of Objective Function]]

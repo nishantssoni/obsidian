@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "362bdc05512f74ff",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ad6e8a75c81efbbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -165,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,52 +179,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ad6e8a75c81efbbb",
   "lastOpenFiles": [
-    "7 - Calendar/2025-01-29.md",
-    "Home.md",
-    "5 - Template/Calendar.md",
-    "7 - Calendar/2025-01-08.md",
-    "7 - Calendar/2025-01-27.md",
-    "7 - Calendar/2025-01-23.md",
-    "7 - Calendar/2025-01-22.md",
-    "5 - Template/Main Notes.md",
-    "2021-08-17.md",
-    "5 - Template/Untitled.md",
-    "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
     "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/Naive Bayes Laplace or Additive Smoothing.md",
+    "attachment/Pasted image 20250129090421.png",
+    "Home.md",
+    "attachment/Pasted image 20250129083923.png",
+    "Naive Bayes Laplace/Additive Smoothing.md",
+    "Naive Bayes Laplace",
+    "6 - Zettelkasten/Naive Bayes Naive Bayes on Text data.md",
+    "6 - Zettelkasten/Naive Bayes Toy example Train and test stages.md",
+    "attachment/Pasted image 20250129085421.png",
+    "attachment/Pasted image 20250129085035.png",
+    "attachment/Pasted image 20250129084924.png",
+    "attachment/Pasted image 20250129084804.png",
+    "6 - Zettelkasten/Naive Bayes Naive Bayes algorithm.md",
+    "attachment/Pasted image 20250129084641.png",
+    "attachment/Pasted image 20250129084545.png",
+    "attachment/Pasted image 20250129084459.png",
+    "6 - Zettelkasten/Naive Bayes Bayes Theorem with examples.md",
+    "attachment/Pasted image 20250129084243.png",
+    "6 - Zettelkasten/Naive Bayes Independent vs Mutually exclusive events.md",
+    "6 - Zettelkasten/Naive Bayes Conditional probability.md",
+    "7 - Calendar/2025-01-29.md",
+    "6 - Zettelkasten/Logistic Regression Loss minimization interpretation.md",
+    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
+    "6 - Zettelkasten/Logistic Regression Geometric Intuition.md",
+    "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
+    "6 - Zettelkasten/Logistic Regression Probabilistic Interpretation Gaussian Naive Bayes.md",
     "6 - Zettelkasten/Logistic Regression Weight Vector.md",
-    "2025-01-28.md",
+    "6 - Zettelkasten/Logistic Regression L1 regularization and sparsity.md",
+    "6 - Zettelkasten/Logistic Regression Sigmoid Function (squashing).md",
+    "1 - Rough Notes/applied ai/naive bayes.md",
+    "6 - Zettelkasten/Untitled.md",
+    "6 - Zettelkasten/l2.md",
+    "6 - Zettelkasten/Regularization.md",
     "Excalidraw/Drawing 2025-01-27 12.19.57.excalidraw.md",
+    "5 - Template/Calendar.md",
     "7 - Calendar",
-    "6 - Zettelkasten/Obsidian initial settings.md",
-    "3 - Tags/plugin.md",
-    "6 - Zettelkasten/tennis analysis using Opencv.md",
-    "6 - Zettelkasten/Argmin and Argmax.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2025-01-28 19.18.17.excalidraw.md",
-    "6 - Zettelkasten/Learning prompts for ai.md",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
-    "3 - Tags/numpy.md",
-    "Excalidraw/Drawing 2025-01-27 12.15.49.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-27 12.10.42.excalidraw.svg",
-    "Screenshot from 2024-12-28 15-23-25.png",
     "Excalidraw",
-    "attachment/Pasted image 20250126145314.png",
-    "Pasted image 20250126145135.png",
-    "attachment/Pasted image 20250126145114.png",
-    "attachment/Pasted image 20250125144736.png",
-    "attachment/image.7XM202.png",
     "Untitled.canvas",
-    "attachment/image.DSZW02.png",
-    "attachment/image.SKHB12.png",
-    "attachment/image.NE7V02.png",
     "attachment",
     "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt",
     "2 - Source Material/Others/Unconfirmed 51350.crdownload",
     "2 - Source Material/Others",
     "6 - Zettelkasten",
-    "5 - Template",
-    "4 - Index"
+    "5 - Template"
   ]
 }
