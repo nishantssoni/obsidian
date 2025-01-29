@@ -13,13 +13,22 @@ let totalHours = pages.reduce((sum, p) => sum + Number(p.total_hour || 0), 0);
 let avgRating = 
     pages.reduce((sum, p) => sum + Number(p.study_rating || 0), 0) / pages.length;
 
+
+let notes = dv.pages('"6 - Zettelkasten"').array(); // Convert pages to an array
+
+// Parse total_hour and study_rating as numbers, default to 0 if missing or invalid
+let no_of_notes = notes.length;
+
+
 dv.table(["Metric", "Value"], [
     ["Total Hours", totalHours],
-    ["Average Rating", avgRating.toFixed(2)],
+    ["Average Study Rating (max: 10)", avgRating.toFixed(2)],
+    ["Total No. of Main Notes", no_of_notes],
 ]);
 
-
 ```
+
+
 ```dataview
 table total_hour, study_rating from "7 - Calendar" limit 3
 ```
