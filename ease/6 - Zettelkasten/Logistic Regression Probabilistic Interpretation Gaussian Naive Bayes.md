@@ -30,7 +30,7 @@ W^{*} = argmin \sum_{i=1}^{n} (-y_{i} \log(p_{i}) - (1-y_{i})\log(1-p_{i}) + reg
 $$
 here $\sigma = simoid \ function$
 
-### comparing both proablity and geometry equation
+### comparing both probablity and geometry equation
 
 Case 1 (if $y_{i} = +ve$):
 - geometry($y_{i} = +1$)

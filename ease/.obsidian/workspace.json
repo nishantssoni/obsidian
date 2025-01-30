@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "362bdc05512f74ff",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6e8a75c81efbbb",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettelkasten/Logistic Regression Feature importance and model interpretability.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logistic Regression Feature importance and model interpretability"
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 337.5026054382324
   },
   "right": {
     "id": "30460942be240230",
@@ -160,11 +165,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 318.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,47 +181,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad6e8a75c81efbbb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "4 - Index/Applied AI index.md",
+    "Home.md",
+    "7 - Calendar/2025-01-30.md",
+    "6 - Zettelkasten/Python Functions.md",
+    "6 - Zettelkasten/Python Lists a comprehensive guide.md",
+    "6 - Zettelkasten/Python Control Flow.md",
+    "6 - Zettelkasten/Matplotlib Introduction.md",
+    "6 - Zettelkasten/Python Comments, Indentation, and Statements.md",
+    "6 - Zettelkasten/Python, Anaconda and relevant packages installations.md",
+    "6 - Zettelkasten/Matplotlib Multiple figures.md",
+    "6 - Zettelkasten/Logistic Regression Probabilistic Interpretation Gaussian Naive Bayes.md",
+    "6 - Zettelkasten/Logistic Regression Feature importance and model interpretability.md",
+    "6 - Zettelkasten/Naive Bayes Handling Numerical features (Gaussian NB).md",
+    "6 - Zettelkasten/Logistic Regression Loss minimization interpretation.md",
+    "6 - Zettelkasten/Logistic Regression Column Standardization.md",
+    "6 - Zettelkasten/Logistic Regression hyperparameter Search Grid search and random search.md",
+    "3 - Tags/python.md",
+    "7 - Calendar/2025-01-29.md",
+    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
+    "attachment/image.2CPW02.png",
+    "attachment/Drawing 2025-01-29 16.42.01.excalidraw.svg",
+    "Excalidraw/Drawing 2025-01-27 12.19.57.excalidraw.md",
+    "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
+    "6 - Zettelkasten/Logistic Regression L1 regularization and sparsity.md",
+    "3 - Tags/ml_loss.md",
+    "attachment/loss_functions.png",
+    "Pasted image 20250129154529.png",
+    "Pasted image 20250129155509.png",
     "6 - Zettelkasten/Naive Bayes Laplace or Additive Smoothing.md",
     "attachment/Pasted image 20250129090421.png",
-    "Home.md",
     "attachment/Pasted image 20250129083923.png",
     "Naive Bayes Laplace/Additive Smoothing.md",
     "Naive Bayes Laplace",
     "6 - Zettelkasten/Naive Bayes Naive Bayes on Text data.md",
-    "6 - Zettelkasten/Naive Bayes Toy example Train and test stages.md",
     "attachment/Pasted image 20250129085421.png",
     "attachment/Pasted image 20250129085035.png",
     "attachment/Pasted image 20250129084924.png",
-    "attachment/Pasted image 20250129084804.png",
-    "6 - Zettelkasten/Naive Bayes Naive Bayes algorithm.md",
-    "attachment/Pasted image 20250129084641.png",
-    "attachment/Pasted image 20250129084545.png",
-    "attachment/Pasted image 20250129084459.png",
-    "6 - Zettelkasten/Naive Bayes Bayes Theorem with examples.md",
-    "attachment/Pasted image 20250129084243.png",
-    "6 - Zettelkasten/Naive Bayes Independent vs Mutually exclusive events.md",
-    "6 - Zettelkasten/Naive Bayes Conditional probability.md",
-    "7 - Calendar/2025-01-29.md",
-    "6 - Zettelkasten/Logistic Regression Loss minimization interpretation.md",
-    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
-    "6 - Zettelkasten/Logistic Regression Geometric Intuition.md",
-    "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
-    "6 - Zettelkasten/Logistic Regression Probabilistic Interpretation Gaussian Naive Bayes.md",
-    "6 - Zettelkasten/Logistic Regression Weight Vector.md",
-    "6 - Zettelkasten/Logistic Regression L1 regularization and sparsity.md",
-    "6 - Zettelkasten/Logistic Regression Sigmoid Function (squashing).md",
-    "1 - Rough Notes/applied ai/naive bayes.md",
-    "6 - Zettelkasten/Untitled.md",
-    "6 - Zettelkasten/l2.md",
-    "6 - Zettelkasten/Regularization.md",
-    "Excalidraw/Drawing 2025-01-27 12.19.57.excalidraw.md",
-    "5 - Template/Calendar.md",
     "7 - Calendar",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Excalidraw",
