@@ -18,11 +18,13 @@ let notes = dv.pages('"6 - Zettelkasten"').array(); // Convert pages to an array
 
 // Parse total_hour and study_rating as numbers, default to 0 if missing or invalid
 let no_of_notes = notes.length;
+let no_of_calendars = pages.length;
 
 
 dv.table(["Metric", "Value"], [
     ["Total Hours", totalHours],
     ["Average Study Rating (max: 10)", avgRating.toFixed(2)],
+    ["Total No. of study days", no_of_calendars],
     ["Total No. of Main Notes", no_of_notes],
 ]);
 

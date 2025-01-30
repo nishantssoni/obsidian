@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "696f00c35806cfb7",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6985d97444e0503c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettelkasten/Logistic Regression Feature importance and model interpretability.md",
+                "file": "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logistic Regression Feature importance and model interpretability"
+              "title": "Logistic Regression Collinearity of features"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5026054382324
+    "width": 337.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "30460942be240230",
@@ -139,9 +140,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "6 - Zettelkasten/Logistic Regression Collinearity of features.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Logistic Regression Collinearity of features"
             }
           },
           {
@@ -165,12 +168,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +187,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6985d97444e0503c",
   "lastOpenFiles": [
-    "4 - Index/Applied AI index.md",
     "Home.md",
+    "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
     "7 - Calendar/2025-01-30.md",
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/Logistic Regression Feature importance and model interpretability.md",
     "6 - Zettelkasten/Python Functions.md",
     "6 - Zettelkasten/Python Lists a comprehensive guide.md",
     "6 - Zettelkasten/Python Control Flow.md",
@@ -198,7 +202,6 @@
     "6 - Zettelkasten/Python, Anaconda and relevant packages installations.md",
     "6 - Zettelkasten/Matplotlib Multiple figures.md",
     "6 - Zettelkasten/Logistic Regression Probabilistic Interpretation Gaussian Naive Bayes.md",
-    "6 - Zettelkasten/Logistic Regression Feature importance and model interpretability.md",
     "6 - Zettelkasten/Naive Bayes Handling Numerical features (Gaussian NB).md",
     "6 - Zettelkasten/Logistic Regression Loss minimization interpretation.md",
     "6 - Zettelkasten/Logistic Regression Column Standardization.md",
@@ -220,7 +223,6 @@
     "attachment/Pasted image 20250129083923.png",
     "Naive Bayes Laplace/Additive Smoothing.md",
     "Naive Bayes Laplace",
-    "6 - Zettelkasten/Naive Bayes Naive Bayes on Text data.md",
     "attachment/Pasted image 20250129085421.png",
     "attachment/Pasted image 20250129085035.png",
     "attachment/Pasted image 20250129084924.png",
