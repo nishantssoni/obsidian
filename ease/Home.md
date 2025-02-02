@@ -31,7 +31,7 @@ dv.table(["Metric", "Value"], [
 ```
 #### calendar
 ```dataview
-table from "7 - Calendar" limit 3
+table from "7 - Calendar" sort file.name desc limit 3
 ```
 #### Index
 ```dataview
