@@ -39,8 +39,9 @@ table from "4 - Index"
 ```
 #### Future YTD Watch
 1. [[NN zero to Hero by Andrej]]
+2. [[How To get Rich without getting lucky (Naval)]]
 
 #### Pending Projects source YTD
-1. [[tennis analysis using Opencv]]
-2. [[Building a Social API using Fast API]]
+3. [[tennis analysis using Opencv]]
+4. [[Building a Social API using Fast API]]
 

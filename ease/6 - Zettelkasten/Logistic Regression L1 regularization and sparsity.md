@@ -16,8 +16,8 @@ $$
 W^{*}=argmin_{w}\left( \sum_{i=1}^{n} \log(1+\exp(-y_{i}W^{T}x_{i})  + \lambda ||W||_{1} \right)
 $$
 - it is absolute value of W so it also acts like L2 norm which prevent the whole equation $\to \pm \infty$
-- L1 regularization often used in Loegistic Regression when we want sparsity, It induces Sparsity in the W vector.
-- Solution to Logistic Regressin is said to be sparse if many $W_{i}$ 's are Zero.
+- L1 regularization often used in Logistic Regression when we want sparsity, It induces Sparsity in the W vector.
+- Solution to Logistic Regression is said to be sparse if many $W_{i}$ 's are Zero.
 
 > [!note] 
 > - Less important features become vanished in Logistic Regression with L1 Regularization.

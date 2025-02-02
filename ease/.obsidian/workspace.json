@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2088e783bcee6f",
+        "id": "8c64f7fb993dfb38",
         "type": "tabs",
         "children": [
           {
-            "id": "5c15cd2c0ffdde0b",
+            "id": "8444eef7329e24f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5026054382324
+    "width": 260.51103591918945
   },
   "right": {
     "id": "30460942be240230",
@@ -177,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,45 +196,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c15cd2c0ffdde0b",
+  "active": "8444eef7329e24f6",
   "lastOpenFiles": [
-    "Home.md",
+    "6 - Zettelkasten/Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV.md",
+    "5 - Template/2. Calendar.md",
     "7 - Calendar/2025-02-02.md",
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/Logistic Regression L1 regularization and sparsity.md",
+    "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
+    "6 - Zettelkasten/Logistic Regression hyperparameter Search Grid search and random search.md",
+    "6 - Zettelkasten/Solvers in Optimization Algorithms.md",
+    "6 - Zettelkasten/Performance measurement Receiver Operating Characteristic Curve (ROC) curve and AUC.md",
+    "attachment/Pasted image 20250202220521.png",
+    "Home.md",
+    "attachment/Pasted image 20250202221004.png",
+    "attachment/Pasted image 20250202220906.png",
+    "6 - Zettelkasten/Performance measurement Precision & recall, F1-score.md",
+    "6 - Zettelkasten/Sklearn Transform vs Fit transform.md",
+    "6 - Zettelkasten/Logistic Regression Feature importance and model interpretability.md",
+    "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
+    "6 - Zettelkasten/Logistic Regression Train & Run time space and time complexity.md",
+    "6 - Zettelkasten/Logistic Regression Real world cases.md",
+    "6 - Zettelkasten/Logistic Regression Non-linearly separable data & feature engineering.md",
+    "6 - Zettelkasten/Logistic Regression Column Standardization.md",
+    "6 - Zettelkasten/Logistic Regression How does imbalance data impact LR geometrically.md",
     "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
     "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
     "6 - Zettelkasten/Logistic Regression Probabilistic Interpretation Gaussian Naive Bayes.md",
-    "6 - Zettelkasten/Logistic Regression Feature importance and model interpretability.md",
-    "6 - Zettelkasten/Logistic Regression Real world cases.md",
-    "4 - Index/Applied AI index.md",
     "6 - Zettelkasten/Python Sets.md",
     "6 - Zettelkasten/Python Strings.md",
     "6 - Zettelkasten/Logistic Regression Sigmoid Function (squashing).md",
     "3 - Tags/data_structure.md",
-    "6 - Zettelkasten/Logistic Regression Non-linearly separable data & feature engineering.md",
-    "7 - Calendar/2025-01-29.md",
-    "6 - Zettelkasten/Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV.md",
     "attachment/Pasted image 20250202172349.png",
     "attachment/Pasted image 20250202173414.png",
     "attachment/Pasted image 20250202172613.png",
-    "6 - Zettelkasten/Note about Applied ai course.md",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "attachment/Pasted image 20250202142627.png",
-    "3 - Tags/regression.md",
-    "6 - Zettelkasten/Naive Bayes Similarity or Distance matrix.md",
     "attachment/Pasted image 20250202141012.png",
     "attachment/Drawing 2025-01-29 16.42.01.excalidraw 2.svg",
-    "6 - Zettelkasten/Logistic Regression How does imbalance data impact LR geometrically.md",
     "attachment/Drawing 2025-01-29 16.42.01.excalidraw 1.svg",
-    "6 - Zettelkasten/Logistic Regression Train & Run time space and time complexity.md",
-    "Excalidraw/Drawing 2025-02-02 13.16.27.excalidraw.md",
-    "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
-    "7 - Calendar/2025-01-31.md",
-    "6 - Zettelkasten/Classification algorithms Feature importance & Forward Feature Selection.md",
-    "6 - Zettelkasten/Python Comments, Indentation, and Statements.md",
-    "6 - Zettelkasten/Classification algorithms Curse of dimensionality.md",
-    "attachment/image.2CPW02.png",
-    "attachment/Drawing 2025-01-29 16.42.01.excalidraw.svg",
-    "attachment/loss_functions.png",
     "Naive Bayes Laplace",
     "7 - Calendar",
     "Excalidraw",

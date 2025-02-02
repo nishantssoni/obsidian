@@ -31,6 +31,7 @@ Random Search:
 - Then we avoids brute force and reduces the time spent for hyper parameter tuning by looking at a smaller set of hyper parameter choices.
 - This technique selects random hyperparameter values to compute cross-validation error, ultimately identifying the ==best hyperparameter choices that optimize the algorithm== as good as grid search for large number of hyper parameter.
 
+
 #### Link
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
