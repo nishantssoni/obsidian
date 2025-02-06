@@ -365,7 +365,7 @@ Now, **Python** is applied to Chapters 2-5, **Matplotlib** to Chapter 6, and **P
 275. [[Logistic Regression Real world cases]]
 276. [[Logistic Regression Non-linearly separable data & feature engineering]]
 277. [[Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV]]
-278. [[Logistic Regression Extensions to Logistic Regression: Generalized linear models (GLM)]]
+278. [[Logistic Regression Extensions to Logistic Regression Generalized linear models (GLM)]]
 
 #### **Chapter 9: Linear Regression**
 

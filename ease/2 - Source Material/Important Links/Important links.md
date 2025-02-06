@@ -1,0 +1,1 @@
+Andrew ng standford real lecture nots  [link](https://cs229.stanford.edu/notes2020spring/)
