@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9f60b9ce427cf5",
+        "id": "127e591026f53114",
         "type": "tabs",
         "children": [
           {
-            "id": "6e8e7b5f4948c86d",
+            "id": "b5aedd9b1bf47f1c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,16 +185,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e8e7b5f4948c86d",
+  "active": "b5aedd9b1bf47f1c",
   "lastOpenFiles": [
+    "Home.md",
+    "7 - Calendar/2025-02-09.md",
+    "7 - Calendar/2025-02-03.md",
+    "7 - Calendar/2025-02-02.md",
+    "7 - Calendar/2025-01-31.md",
+    "7 - Calendar/2025-01-30.md",
+    "7 - Calendar/2025-01-29.md",
+    "5 - Template/2. Calendar.md",
+    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
     "attachment/Pasted image 20250203200932.png",
     "6 - Zettelkasten/Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV.md",
     "6 - Zettelkasten/Linear Regression Code sample for Linear Regression.md",
     "4 - Index/Applied AI index.md",
-    "Home.md",
     "attachment/Pasted image 20250203201105.png",
     "attachment/Pasted image 20250203201027.png",
-    "7 - Calendar/2025-02-03.md",
     "6 - Zettelkasten/Linear Regression Real world Cases.md",
     "6 - Zettelkasten/RANSAC.md",
     "6 - Zettelkasten/Linear Regression Mathematical formulation.md",
@@ -209,8 +216,6 @@
     "6 - Zettelkasten/Logistic Regression Non-linearly separable data & feature engineering.md",
     "2 - Source Material/Podcasts/How To get Rich without getting lucky (Naval).md",
     "2 - Source Material/Important Links",
-    "5 - Template/2. Calendar.md",
-    "7 - Calendar/2025-02-02.md",
     "6 - Zettelkasten/Logistic Regression L1 regularization and sparsity.md",
     "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
     "6 - Zettelkasten/Logistic Regression hyperparameter Search Grid search and random search.md",
@@ -219,10 +224,6 @@
     "attachment/Pasted image 20250202220521.png",
     "attachment/Pasted image 20250202221004.png",
     "6 - Zettelkasten/Performance measurement Precision & recall, F1-score.md",
-    "6 - Zettelkasten/Sklearn Transform vs Fit transform.md",
-    "6 - Zettelkasten/Logistic Regression Feature importance and model interpretability.md",
-    "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
-    "6 - Zettelkasten/Logistic Regression Train & Run time space and time complexity.md",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Naive Bayes Laplace",
     "7 - Calendar",
