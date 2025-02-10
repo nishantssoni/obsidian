@@ -33,9 +33,8 @@ $$
 $$
 W^{*}=argmin_{w}\left( \sum_{i=1}^{n} \log(1+\exp(-y_{i}W^{T}x_{i}) \right) \ where \ y_{i} = [-1, 1]
 $$
-$$
-the \ above \ is \ the for m ulation \ for \ the \ optimization \ for \ log istic \  regression
-$$
+The above is the formulation for the optimization for logistic regression
+
 Now, is we remove 1 from inside log then the equation become
 $$
 W^{*}=argmin_{w}\left( \sum_{i=1}^{n} \log(\exp(-y_{i}W^{T}x_{i}) \right)
