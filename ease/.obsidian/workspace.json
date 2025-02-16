@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc3b9645c1bddb7",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0d21bcd91d01c250",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettelkasten/Optimization problems Learning rate.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Optimization problems Learning rate"
+              "title": "Home"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Zettelkasten/Optimization problems Learning rate.md",
+                "file": "6 - Zettelkasten/Optimization problems Gradient descent for linear regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Optimization problems Learning rate"
+              "title": "Outline of Optimization problems Gradient descent for linear regression"
             }
           },
           {
@@ -175,12 +175,12 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,19 +199,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d21bcd91d01c250",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "6 - Zettelkasten/Optimization problems Gradient descent geometric intuition.md",
-    "6 - Zettelkasten/Optimization problems Learning rate.md",
-    "4 - Index/Applied AI index.md",
-    "6 - Zettelkasten/Optimization problems Gradient descent for linear regression.md",
-    "2 - Source Material/Important Links/Important links.md",
     "Home.md",
+    "6 - Zettelkasten/SGD algorithm Constrained optimization & PCA.md",
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/SGD algorithm Intro.md",
+    "6 - Zettelkasten/Optimization problems Gradient descent for linear regression.md",
+    "7 - Calendar/2025-02-11.md",
+    "6 - Zettelkasten/Optimization problems Learning rate.md",
+    "6 - Zettelkasten/Linear Regression Geometric intuition of Linear Regression.md",
+    "6 - Zettelkasten/Optimization problems Gradient descent geometric intuition.md",
+    "2 - Source Material/Important Links/Important links.md",
     "7 - Calendar/2025-02-10.md",
     "7 - Calendar/2025-02-09.md",
     "6 - Zettelkasten/Argmin and Argmax.md",
     "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
-    "6 - Zettelkasten/Linear Regression Geometric intuition of Linear Regression.md",
     "6 - Zettelkasten/Linear Regression Mathematical formulation.md",
     "6 - Zettelkasten/Optimization problems Vector calculus Grad.md",
     "6 - Zettelkasten/Logistic Regression L2 Regularization Overfitting and Underfitting.md",
@@ -226,10 +229,7 @@
     "7 - Calendar/2025-01-31.md",
     "7 - Calendar/2025-01-30.md",
     "5 - Template/2. Calendar.md",
-    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
     "attachment/Pasted image 20250203200932.png",
-    "6 - Zettelkasten/Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV.md",
-    "6 - Zettelkasten/Linear Regression Code sample for Linear Regression.md",
     "attachment/Pasted image 20250203201105.png",
     "attachment/Pasted image 20250203201027.png",
     "attachment/Pasted image 20250203125837.png",
