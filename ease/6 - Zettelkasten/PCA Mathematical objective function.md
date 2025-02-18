@@ -21,7 +21,7 @@ Tags:
 - We want $u_{1}$ such that the above equation(variance) is maximum.
 
 
-This is optimization problem:
+**This is optimization problem:**
 - Objective
 	- $max(\frac{1}{n} * \sum^{i=1}_{n}(u_{1}^{T}x_{i})^{2})$
 - Constraint:

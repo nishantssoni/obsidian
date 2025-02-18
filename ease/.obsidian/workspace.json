@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d028757de5a40b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "b0deda3e80acabd2",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "attachment/Pasted image 20250218112058.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250218112058"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,13 +185,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "039859f3e2d2c42c",
+  "active": "b0deda3e80acabd2",
   "lastOpenFiles": [
-    "6 - Zettelkasten/SGD algorithm Constrained optimization & PCA.md",
+    "Home.md",
     "4 - Index/Applied AI index.md",
+    "7 - Calendar/2025-02-18.md",
+    "2 - Source Material/Podcasts/How To get Rich without getting lucky (Naval).md",
+    "6 - Zettelkasten/SVM Geometric intuition.md",
+    "3 - Tags/svm.md",
+    "6 - Zettelkasten/SGD algorithm Question & Answers.md",
+    "6 - Zettelkasten/SGD algorithm Interview questions on Logistic Regression and Linear Regression.md",
+    "6 - Zettelkasten/SGD algorithm Why L1 regularization creates sparsity.md",
+    "5 - Template/1. Main Notes.md",
+    "3 - Tags/fileio.md",
+    "6 - Zettelkasten/Python File Handling.md",
+    "3 - Tags/python.md",
+    "6 - Zettelkasten/SGD algorithm Logistic regression formulation revisited.md",
+    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
+    "6 - Zettelkasten/SGD algorithm Constrained optimization & PCA.md",
+    "attachment/Pasted image 20250218124910.png",
+    "Pasted image 20250218122125.png",
+    "6 - Zettelkasten/PCA Mathematical objective function.md",
+    "6 - Zettelkasten/PCA Geometric intuition.md",
+    "attachment/Pasted image 20250218112058.png",
     "6 - Zettelkasten/PCA Visualize MNIST dataset.md",
     "6 - Zettelkasten/PCA PCA for dimensionality reduction visualization.md",
-    "attachment/Pasted image 20250218112058.png",
     "Pasted image 20250218112012.png",
     "6 - Zettelkasten/PCA PCA for dimensionality reduction (not visualization).md",
     "attachment/Pasted image 20250218111148.png",
@@ -202,28 +218,11 @@
     "attachment/Pasted image 20250218110400.png",
     "attachment/Pasted image 20250218110127.png",
     "Pasted image 20250218110047.png",
-    "6 - Zettelkasten/PCA Geometric intuition.md",
     "6 - Zettelkasten/PCA PCA for dimensionality reduction and visualization.md",
     "6 - Zettelkasten/PCA Eigenvalues and eigenvectors.md",
     "attachment/Pasted image 20250218094229.png",
     "6 - Zettelkasten/PCA Alternative formulation of PCA distance minimization.md",
-    "6 - Zettelkasten/PCA Mathematical objective function.md",
-    "attachment/Pasted image 20250218092405.png",
-    "Home.md",
-    "attachment/Pasted image 20250217090528.png",
     "7 - Calendar/2025-02-17.md",
-    "6 - Zettelkasten/PCA Why learn it.md",
-    "6 - Zettelkasten/SGD algorithm Intro.md",
-    "7 - Calendar/2025-02-11.md",
-    "6 - Zettelkasten/Optimization problems Gradient descent for linear regression.md",
-    "6 - Zettelkasten/Optimization problems Learning rate.md",
-    "6 - Zettelkasten/Linear Regression Geometric intuition of Linear Regression.md",
-    "6 - Zettelkasten/Optimization problems Gradient descent geometric intuition.md",
-    "2 - Source Material/Important Links/Important links.md",
-    "7 - Calendar/2025-02-10.md",
-    "7 - Calendar/2025-02-09.md",
-    "6 - Zettelkasten/Argmin and Argmax.md",
-    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Naive Bayes Laplace",
