@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d028757de5a40b3f",
+        "id": "dfaa0f9270f5fa2a",
         "type": "tabs",
         "children": [
           {
-            "id": "b0deda3e80acabd2",
+            "id": "20d78f893d9caa28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "attachment/Pasted image 20250218210247.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250218210247"
             }
           }
         ]
@@ -185,13 +187,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0deda3e80acabd2",
+  "active": "039859f3e2d2c42c",
   "lastOpenFiles": [
-    "Home.md",
-    "4 - Index/Applied AI index.md",
+    "attachment/Pasted image 20250218210410.png",
+    "attachment/Pasted image 20250218210444.png",
+    "attachment/Pasted image 20250218214940.png",
+    "attachment/Pasted image 20250218210247.png",
     "7 - Calendar/2025-02-18.md",
-    "2 - Source Material/Podcasts/How To get Rich without getting lucky (Naval).md",
     "6 - Zettelkasten/SVM Geometric intuition.md",
+    "4 - Index/Applied AI index.md",
+    "Home.md",
+    "2 - Source Material/Podcasts/How To get Rich without getting lucky (Naval).md",
     "3 - Tags/svm.md",
     "6 - Zettelkasten/SGD algorithm Question & Answers.md",
     "6 - Zettelkasten/SGD algorithm Interview questions on Logistic Regression and Linear Regression.md",
@@ -215,14 +221,9 @@
     "attachment/Pasted image 20250218111148.png",
     "6 - Zettelkasten/PCA Limitations of PCA.md",
     "attachment/Pasted image 20250218110556.png",
-    "attachment/Pasted image 20250218110400.png",
-    "attachment/Pasted image 20250218110127.png",
-    "Pasted image 20250218110047.png",
     "6 - Zettelkasten/PCA PCA for dimensionality reduction and visualization.md",
     "6 - Zettelkasten/PCA Eigenvalues and eigenvectors.md",
-    "attachment/Pasted image 20250218094229.png",
     "6 - Zettelkasten/PCA Alternative formulation of PCA distance minimization.md",
-    "7 - Calendar/2025-02-17.md",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Naive Bayes Laplace",
