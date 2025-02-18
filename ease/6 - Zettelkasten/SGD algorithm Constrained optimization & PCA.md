@@ -9,3 +9,4 @@ Tags:
 
 
 # References
+[[PCA Geometric intuition]]

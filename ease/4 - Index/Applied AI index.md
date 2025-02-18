@@ -202,8 +202,8 @@ Now, **Python** is applied to Chapters 2-5, **Matplotlib** to Chapter 6, and **P
 145. [[PCA PCA for dimensionality reduction and visualization]]
 146. [[PCA Visualize MNIST dataset]]
 147. [[PCA Limitations of PCA]]
-148. [[PCA Code example]]
-149. [[PCA PCA for dimensionality reduction (not visualization)]]
+148. [[PCA PCA for dimensionality reduction (not visualization)]]
+149. [[PCA PCA for dimensionality reduction visualization]]
 
 #### **Chapter 7: T-distributed stochastic neighborhood embedding (t-SNE)**
 
