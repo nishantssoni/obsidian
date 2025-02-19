@@ -36,15 +36,15 @@ The data points can be separated with many hyper-planes. Say, with
 
 For classification we will use π, the margin maximizing hyper plane.
 
-Alternative Geometric Intuition of SVM: Using Convex hulls:
+#### Alternative Geometric Intuition of SVM: Using Convex hulls:
 
 ![[Pasted image 20250218210444.png]]
 
-Build smallest convex hulls for each set of data points, find the shortest line connecting
-these hulls, and draw a perpendicular bisector to this line to get the margin
-maximization hyper plane.
+- Convex hulls is the smallest polygon where all the points are inside or in the polygon. And while connecting to two points with a line the line should not go outside the polygon.
 
+![[Pasted image 20250219100601.png]]
 
-
-
+- Build smallest convex hulls for each set of data points, find the shortest line connecting these hulls.
+- and draw a perpendicular bisector to this line to get the margin maximization hyper plane.
+ 
 # References

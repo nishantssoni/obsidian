@@ -4,19 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "dfaa0f9270f5fa2a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "20d78f893d9caa28",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachment/Pasted image 20250218210247.png"
+                "file": "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250218210247"
+              "icon": "lucide-file",
+              "title": "SVM Loss function Hinge Loss based interpretation"
+            }
+          },
+          {
+            "id": "f67f97569d49c457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -76,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945
+    "width": 223.50043487548828
   },
   "right": {
     "id": "30460942be240230",
@@ -138,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Zettelkasten/PCA Mathematical objective function.md",
+                "file": "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PCA Mathematical objective function"
+              "title": "Outline of SVM Loss function Hinge Loss based interpretation"
             }
           },
           {
@@ -168,11 +204,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,16 +224,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "039859f3e2d2c42c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Pasted image 20250219131045.png",
+    "Pasted image 20250219130943.png",
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
+    "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
+    "Home.md",
+    "7 - Calendar/2025-02-19.md",
+    "6 - Zettelkasten/SVM Mathematical derivation.md",
+    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
+    "6 - Zettelkasten/Logistic Regression Loss minimization interpretation.md",
+    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
+    "attachment/Drawing 2025-01-29 16.42.01.excalidraw 3.svg",
+    "6 - Zettelkasten/SVM Geometric intuition.md",
+    "attachment/Pasted image 20250219100601.png",
+    "attachment/Pasted image 20250218210247.png",
     "attachment/Pasted image 20250218210410.png",
     "attachment/Pasted image 20250218210444.png",
     "attachment/Pasted image 20250218214940.png",
-    "attachment/Pasted image 20250218210247.png",
     "7 - Calendar/2025-02-18.md",
-    "6 - Zettelkasten/SVM Geometric intuition.md",
-    "4 - Index/Applied AI index.md",
-    "Home.md",
     "2 - Source Material/Podcasts/How To get Rich without getting lucky (Naval).md",
     "3 - Tags/svm.md",
     "6 - Zettelkasten/SGD algorithm Question & Answers.md",
@@ -207,7 +255,6 @@
     "6 - Zettelkasten/Python File Handling.md",
     "3 - Tags/python.md",
     "6 - Zettelkasten/SGD algorithm Logistic regression formulation revisited.md",
-    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
     "6 - Zettelkasten/SGD algorithm Constrained optimization & PCA.md",
     "attachment/Pasted image 20250218124910.png",
     "Pasted image 20250218122125.png",
@@ -215,15 +262,6 @@
     "6 - Zettelkasten/PCA Geometric intuition.md",
     "attachment/Pasted image 20250218112058.png",
     "6 - Zettelkasten/PCA Visualize MNIST dataset.md",
-    "6 - Zettelkasten/PCA PCA for dimensionality reduction visualization.md",
-    "Pasted image 20250218112012.png",
-    "6 - Zettelkasten/PCA PCA for dimensionality reduction (not visualization).md",
-    "attachment/Pasted image 20250218111148.png",
-    "6 - Zettelkasten/PCA Limitations of PCA.md",
-    "attachment/Pasted image 20250218110556.png",
-    "6 - Zettelkasten/PCA PCA for dimensionality reduction and visualization.md",
-    "6 - Zettelkasten/PCA Eigenvalues and eigenvectors.md",
-    "6 - Zettelkasten/PCA Alternative formulation of PCA distance minimization.md",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Naive Bayes Laplace",
