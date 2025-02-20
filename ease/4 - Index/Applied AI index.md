@@ -339,7 +339,7 @@
 99. [[Naive Bayes Large dimensionality]]
 100. [[Naive Bayes Best and worst cases]]
 101. [[Naive Bayes Code example]]
-102. [[Naive Bayes Exercise: Apply Naive Bayes to Amazon reviews]]
+102. [[Naive Bayes Revision Questions]]
 #### Chapter 8: Logistic Regression
 103. [[Logistic Regression Geometric Intuition]]
 104. [[Logistic Regression Sigmoid Function (squashing)]]

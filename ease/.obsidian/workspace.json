@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
+                "file": "4 - Index/Applied AI index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SVM Loss function Hinge Loss based interpretation"
+              "title": "Applied AI index"
+            }
+          },
+          {
+            "id": "da1e60942e8a9b41",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bae88f416ed508ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Logistic Regression Mathematic Formulation of Objective Function"
             }
           }
         ]
@@ -88,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.50043487548828,
-    "collapsed": true
+    "width": 223.50043487548828
   },
   "right": {
     "id": "30460942be240230",
@@ -185,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,42 +235,43 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "4 - Index/Applied AI index.md",
-    "6 - Zettelkasten/SVM Mathematical derivation.md",
-    "6 - Zettelkasten/SVM Geometric intuition.md",
-    "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
-    "6 - Zettelkasten/Logistic Regression Loss minimization interpretation.md",
-    "3 - Tags/ml_loss.md",
-    "Home.md",
-    "Pasted image 20250219130943.png",
-    "Pasted image 20250219131045.png",
-    "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
-    "7 - Calendar/2025-02-19.md",
     "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
-    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
-    "attachment/Drawing 2025-01-29 16.42.01.excalidraw 3.svg",
-    "attachment/Pasted image 20250219100601.png",
-    "attachment/Pasted image 20250218210247.png",
-    "attachment/Pasted image 20250218210410.png",
-    "attachment/Pasted image 20250218210444.png",
-    "attachment/Pasted image 20250218214940.png",
-    "7 - Calendar/2025-02-18.md",
-    "2 - Source Material/Podcasts/How To get Rich without getting lucky (Naval).md",
-    "3 - Tags/svm.md",
-    "6 - Zettelkasten/SGD algorithm Question & Answers.md",
-    "6 - Zettelkasten/SGD algorithm Interview questions on Logistic Regression and Linear Regression.md",
-    "6 - Zettelkasten/SGD algorithm Why L1 regularization creates sparsity.md",
-    "5 - Template/1. Main Notes.md",
-    "3 - Tags/fileio.md",
-    "6 - Zettelkasten/Python File Handling.md",
-    "3 - Tags/python.md",
-    "6 - Zettelkasten/SGD algorithm Logistic regression formulation revisited.md",
-    "6 - Zettelkasten/SGD algorithm Constrained optimization & PCA.md",
-    "attachment/Pasted image 20250218124910.png",
-    "Pasted image 20250218122125.png",
-    "6 - Zettelkasten/PCA Mathematical objective function.md",
-    "6 - Zettelkasten/PCA Geometric intuition.md",
-    "6 - Zettelkasten/PCA Visualize MNIST dataset.md",
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/Classification algorithms Train and test set differences.md",
+    "6 - Zettelkasten/Classification algorithms k-NN given a distance or similarity matrix.md",
+    "Pasted image 20250220223050.png",
+    "6 - Zettelkasten/Classification algorithms Multi-class classification.md",
+    "Pasted image 20250220222920.png",
+    "6 - Zettelkasten/Classification algorithms Imbalanced vs balanced dataset.md",
+    "6 - Zettelkasten/Classification algorithms Introduction.md",
+    "6 - Zettelkasten/Performance measurement Accuracy.md",
+    "Pasted image 20250220221745.png",
+    "Pasted image 20250220221715.png",
+    "6 - Zettelkasten/Performance measurement Confusion matrix, TPR, FPR, FNR, TNR.md",
+    "Pasted image 20250220221201.png",
+    "6 - Zettelkasten/Untitled.md",
+    "Pasted image 20250220220529.png",
+    "Pasted image 20250220220303.png",
+    "6 - Zettelkasten/Performance measurement MAPE.md",
+    "6 - Zettelkasten/Performance measurement Log-loss.md",
+    "Performance measurement R-Squared/ Coefficient of determination.md",
+    "Pasted image 20250220214601.png",
+    "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
+    "Home.md",
+    "Performance measurement R-Squared",
+    "6 - Zettelkasten/Performance measurement Median absolute deviation (MAD).md",
+    "6 - Zettelkasten/Performance measurement Distribution of errors.md",
+    "6 - Zettelkasten/Performance measurement Revision Questions.md",
+    "6 - Zettelkasten/Performance measurement Receiver Operating Characteristic Curve (ROC) curve and AUC.md",
+    "6 - Zettelkasten/Interview Questions on Performance Measurement models Question & Answers.md",
+    "6 - Zettelkasten/Naive Bayes Revision Questions.md",
+    "6 - Zettelkasten/Naive Bayes Code example.md",
+    "Pasted image 20250220211344.png",
+    "6 - Zettelkasten/Naive Bayes Best and worst cases.md",
+    "Pasted image 20250220211209.png",
+    "6 - Zettelkasten/Naive Bayes Multiclass classification.md",
+    "6 - Zettelkasten/Naive Bayes Large dimensionality.md",
+    "6 - Zettelkasten/Naive Bayes Similarity or Distance matrix.md",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Naive Bayes Laplace",
@@ -248,7 +281,6 @@
     "attachment",
     "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt",
     "2 - Source Material/Others/Unconfirmed 51350.crdownload",
-    "2 - Source Material/Others",
-    "6 - Zettelkasten"
+    "2 - Source Material/Others"
   ]
 }
