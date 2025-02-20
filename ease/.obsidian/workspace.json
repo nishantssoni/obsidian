@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "SVM Loss function Hinge Loss based interpretation"
             }
-          },
-          {
-            "id": "f67f97569d49c457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
           }
         ]
       }
@@ -112,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.50043487548828
+    "width": 223.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "30460942be240230",
@@ -226,19 +203,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Pasted image 20250219131045.png",
-    "Pasted image 20250219130943.png",
     "4 - Index/Applied AI index.md",
-    "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
-    "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
-    "Home.md",
-    "7 - Calendar/2025-02-19.md",
     "6 - Zettelkasten/SVM Mathematical derivation.md",
-    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
+    "6 - Zettelkasten/SVM Geometric intuition.md",
+    "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
     "6 - Zettelkasten/Logistic Regression Loss minimization interpretation.md",
+    "3 - Tags/ml_loss.md",
+    "Home.md",
+    "Pasted image 20250219130943.png",
+    "Pasted image 20250219131045.png",
+    "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
+    "7 - Calendar/2025-02-19.md",
+    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
     "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
     "attachment/Drawing 2025-01-29 16.42.01.excalidraw 3.svg",
-    "6 - Zettelkasten/SVM Geometric intuition.md",
     "attachment/Pasted image 20250219100601.png",
     "attachment/Pasted image 20250218210247.png",
     "attachment/Pasted image 20250218210410.png",
@@ -260,7 +238,6 @@
     "Pasted image 20250218122125.png",
     "6 - Zettelkasten/PCA Mathematical objective function.md",
     "6 - Zettelkasten/PCA Geometric intuition.md",
-    "attachment/Pasted image 20250218112058.png",
     "6 - Zettelkasten/PCA Visualize MNIST dataset.md",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
