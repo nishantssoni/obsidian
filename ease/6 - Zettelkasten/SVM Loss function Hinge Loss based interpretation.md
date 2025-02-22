@@ -32,12 +32,36 @@ but, for Hinge Loss:
 ξi = 0 for correctly classified data points
 For incorrectly classified data points:
 ![[Pasted image 20250219131045.png]]
-ξi = dist for xj to the correct hyper plane = max(0,1- Zj)
-Soft-SVM: min(W,b) ||W||/2 + C sum(ξi) such that ( 1- yi (WTXi + b)) <= ξi
-C increases - Overfitting
-Loss-minimization: min (W,b) sum(max(0, 1-yi(WTXi + b)) + λ||W||2
-λ increases – Underfitting
-(C when multiplied with loss function and λ for regularizing term)
+- in the above picture a correctly classified point $x_{i}$ and a incorrectly classify point $x_{j}$ with the wrong distance of $d_{j}=1-y_{i}(w^{T}x_{i} + b)$
+- $\xi = \text{dist of the point to the correct hyper plane }= max(0,1-Z_{i})$
+- $\xi_{x_{i}} = 0$
+- $\xi_{x_{j}} = 1-Z_{j}$
+
+**Now the soft SVM is**
+$$
+(w^{*},b^{*}) = argmin_{w,b}\left( \frac{||w||}{2} + c*\frac{1}{n}\sum_{i=1}^{n} \xi_{i} \right)
+$$
+ contraints :
+$$
+1-y_{i} (w^{T}x + b) \geq \xi_{i} \ ; \ \forall \ \xi_{i} \geq_{0}
+$$
+
+
+**Loss-minimization:**
+$$
+min_{w,b} = \sum_{i=1}^{n} max(0,1-y_{i}(w^{T}\xi+b)) + \lambda||w||^{2}
+$$
+
+> [!important] 
+> Now see both equation is kind a similer
+> c increases - overfitting, $\lambda$ increases - underfit
+> c decreases - underfit, $\lambda$ decreases - 0verfit
+> both  are inverted of each other
+> 
+
+> [!info] 
+>  C multiplied with loss function and λ multiplied for regularizing term
+>  so loss minimizatio of svm and soft svm are kind a similer
 
 
 # References

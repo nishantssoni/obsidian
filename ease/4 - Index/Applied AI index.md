@@ -309,7 +309,7 @@
 74. [[Performance measurement Receiver Operating Characteristic Curve (ROC) curve and AUC]]
 75. [[Performance measurement MAPE]]
 76. [[Performance measurement Log-loss]]
-77. [[Performance measurement R-Squared/ Coefficient of determination]]
+77. [[Performance measurement R-Squared Coefficient of determination]]
 78. [[Performance measurement Median absolute deviation (MAD)]]
 79. [[Performance measurement Distribution of errors]]
 80. [[Performance measurement Revision Questions]]

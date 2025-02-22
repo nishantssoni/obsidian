@@ -1,10 +1,11 @@
-2025-02-20 21:32
+2025-02-22 07:55
 
 Status:
 
 Tags:
 
 ---
+
 - It is used for a regression model.
 - A simple mean model is a model which returns the avg value(or mean) of the whole $y_{i}$
 - Sum of squared errors ( $SS_{tot}$)
@@ -44,4 +45,7 @@ Tags:
 ![[Pasted image 20250220214601.png]]
 
 ==One of the best metric to use to calculate regression model is MSE or adjust R2==
+
+
+
 # References
