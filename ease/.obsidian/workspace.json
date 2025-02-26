@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49e3ac2d97f3ee16",
+        "id": "5da82343839bd9d0",
         "type": "tabs",
         "children": [
           {
-            "id": "0efd044a0ec4f127",
+            "id": "7f409402469ee833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettelkasten/SVM Dual form of SVM formulation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SVM Dual form of SVM formulation"
+              "title": "New tab"
             }
           }
         ]
@@ -199,10 +185,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0efd044a0ec4f127",
+  "active": "7f409402469ee833",
   "lastOpenFiles": [
-    "4 - Index/Applied AI index.md",
+    "5 - Template/1. Main Notes.md",
+    "test.md",
+    "Home.md",
     "6 - Zettelkasten/SVM Dual form of SVM formulation.md",
+    "4 - Index/Applied AI index.md",
     "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
     "6 - Zettelkasten/Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV.md",
     "2 - Source Material/Important Links/Important links.md",
@@ -210,7 +199,6 @@
     "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
     "Performance measurement R-Squared/ Coefficient of determination.md",
     "6 - Zettelkasten/Performance measurement R-Squared Coefficient of determination.md",
-    "Home.md",
     "attachment/Pasted image 20250219130943.png",
     "attachment/Pasted image 20250209052012.png",
     "attachment/Pasted image 20250217085226.png",
@@ -236,8 +224,6 @@
     "6 - Zettelkasten/Performance measurement Log-loss.md",
     "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
     "Performance measurement R-Squared",
-    "6 - Zettelkasten/Performance measurement Median absolute deviation (MAD).md",
-    "6 - Zettelkasten/Performance measurement Distribution of errors.md",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Naive Bayes Laplace",
