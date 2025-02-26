@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c8e8cb5c29f87f",
+        "id": "581f4e882343fb2f",
         "type": "tabs",
         "children": [
           {
-            "id": "c76cade70d6938b1",
+            "id": "51c09aa6c60ff187",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -185,16 +199,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c76cade70d6938b1",
+  "active": "51c09aa6c60ff187",
   "lastOpenFiles": [
+    "6 - Zettelkasten/SVM Revision Questions.md",
     "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/Interview Questions on SVM Questions & Answers.md",
+    "6 - Zettelkasten/SVM Code Sample.md",
+    "Home.md",
     "6 - Zettelkasten/SVM Dual form of SVM formulation.md",
     "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
     "3 - Tags/svm.md",
     "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
     "6 - Zettelkasten/SVM Geometric intuition.md",
     "6 - Zettelkasten/SVM Mathematical derivation.md",
-    "Home.md",
     "5 - Template/1. Main Notes.md",
     "test.md",
     "6 - Zettelkasten/Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV.md",
@@ -219,10 +236,7 @@
     "6 - Zettelkasten/Performance measurement Accuracy.md",
     "attachment/Pasted image 20250220221745.png",
     "Pasted image 20250220221715.png",
-    "6 - Zettelkasten/Performance measurement Confusion matrix, TPR, FPR, FNR, TNR.md",
     "attachment/Pasted image 20250220221201.png",
-    "6 - Zettelkasten/Untitled.md",
-    "6 - Zettelkasten/Performance measurement MAPE.md",
     "Performance measurement R-Squared",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
