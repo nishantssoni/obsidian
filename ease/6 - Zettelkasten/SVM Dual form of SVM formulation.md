@@ -5,7 +5,7 @@ Status:
 Tags:
 
 ---
-Correction 1: at 9.45 it should be alpha_i>0 for SV’s and alpha_i=0 for Non-SV’s. 
+## SVM Dual form of SVM formulation
 
 
 **Primal Form(or soft margin SVM)**

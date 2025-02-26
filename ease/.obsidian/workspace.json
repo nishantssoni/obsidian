@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5da82343839bd9d0",
+        "id": "e1c8e8cb5c29f87f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f409402469ee833",
+            "id": "c76cade70d6938b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,18 +185,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f409402469ee833",
+  "active": "c76cade70d6938b1",
   "lastOpenFiles": [
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/SVM Dual form of SVM formulation.md",
+    "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
+    "3 - Tags/svm.md",
+    "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
+    "6 - Zettelkasten/SVM Geometric intuition.md",
+    "6 - Zettelkasten/SVM Mathematical derivation.md",
+    "Home.md",
     "5 - Template/1. Main Notes.md",
     "test.md",
-    "Home.md",
-    "6 - Zettelkasten/SVM Dual form of SVM formulation.md",
-    "4 - Index/Applied AI index.md",
-    "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
     "6 - Zettelkasten/Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV.md",
     "2 - Source Material/Important Links/Important links.md",
-    "6 - Zettelkasten/SVM Mathematical derivation.md",
-    "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
     "Performance measurement R-Squared/ Coefficient of determination.md",
     "6 - Zettelkasten/Performance measurement R-Squared Coefficient of determination.md",
     "attachment/Pasted image 20250219130943.png",
@@ -221,8 +223,6 @@
     "attachment/Pasted image 20250220221201.png",
     "6 - Zettelkasten/Untitled.md",
     "6 - Zettelkasten/Performance measurement MAPE.md",
-    "6 - Zettelkasten/Performance measurement Log-loss.md",
-    "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
     "Performance measurement R-Squared",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",

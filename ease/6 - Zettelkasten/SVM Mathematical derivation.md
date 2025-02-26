@@ -5,6 +5,8 @@ Status: #hard
 Tags:[[svm]]
 
 ---
+## SVM Mathematical derivation
+
 #### Hard margin SVM
 
 ![[Pasted image 20250218210410.png]]
@@ -70,6 +72,6 @@ $$
 - As C decreases underfitting occurs, high bias. 
 - The above objective formulation is for ==soft margin optimization for SVM==.
 
-# References
+## References
 [[SGD algorithm Constrained optimization & PCA]]
 [[Logistic Regression Mathematic Formulation of Objective Function]]

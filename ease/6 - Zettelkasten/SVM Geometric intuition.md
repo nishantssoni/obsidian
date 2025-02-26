@@ -5,6 +5,7 @@ Status:
 Tags: [[svm]]
 
 ---
+## SVM Geometric intuition
 
 SVM – Popular Machine Learning Model – classification and regression problems
 
@@ -47,4 +48,4 @@ For classification we will use π, the margin maximizing hyper plane.
 - Build smallest convex hulls for each set of data points, find the shortest line connecting these hulls.
 - and draw a perpendicular bisector to this line to get the margin maximization hyper plane.
  
-# References
+## References

@@ -5,6 +5,7 @@ Status:
 Tags: [[svm]] [[ml_loss]]
 
 ---
+## SVM Loss function Hinge Loss based interpretation
 
 - `Logistic Regression: Logistic loss + reg`
 - `Linear Regression: Linear loss + reg`
@@ -64,7 +65,7 @@ $$
 >  so loss minimizatio of svm and soft svm are kind a similer
 
 
-# References
+## References
 [[Logistic Regression Loss minimization interpretation]]
 [[SVM Mathematical derivation]]
 [[Performance measurement Log-loss]]
