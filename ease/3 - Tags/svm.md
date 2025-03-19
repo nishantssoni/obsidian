@@ -1,0 +1,1 @@
+- SVM are one of the best machine learning methods when getting the correct answer is a higher priority than understanding why you get the correct answer they work really well with relatively small datasets and the tend to work well "out of the box " in other words they do not require much optimization.
