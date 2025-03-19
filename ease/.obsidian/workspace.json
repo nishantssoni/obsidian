@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettelkasten/conda setup and commands.md",
+                "file": "1 - Rough Notes/code with jiffy tutorial.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conda setup and commands"
+              "title": "code with jiffy tutorial"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.50043487548828
+    "width": 223.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "30460942be240230",
@@ -202,7 +203,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "attachment/Pasted image 20250319222438.png",
     "Home.md",
+    "1 - Rough Notes/code with jiffy tutorial.md",
     "6 - Zettelkasten/conda setup and commands.md",
     "6 - Zettelkasten/Untitled.md",
     "6 - Zettelkasten/Conda.md",
@@ -226,8 +229,6 @@
     "6 - Zettelkasten/Python, Anaconda and relevant packages installations.md",
     "6 - Zettelkasten/Python Variables and Data Types.md",
     "6 - Zettelkasten/Python Tuples.md",
-    "6 - Zettelkasten/Python Things to learn for AI.md",
-    "6 - Zettelkasten/Python Strings.md",
     "2 - Source Material/Others/Unconfirmed 708610.crdownload",
     "2 - Source Material/Others/output_5_0.png",
     "attachment/Pasted image 20250219130943.png",
