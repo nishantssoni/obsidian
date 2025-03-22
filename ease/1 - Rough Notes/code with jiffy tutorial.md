@@ -302,7 +302,24 @@ return response.choices[0].message.content
 
 
 
-from 1 :17
+### Recommendation engine traning
+![[Pasted image 20250322205206.png]]
+
+![[Pasted image 20250322205316.png]]
+ `^quantify the strength of an association rule.`
+
+
+![[Pasted image 20250322205618.png]]
+![[Pasted image 20250322205750.png]]
+
+
+
+1:46
+
+
+
+
 
 ---
 ## References
+ [project for this note](https://github.com/nishantssoni/open_help_bot)
