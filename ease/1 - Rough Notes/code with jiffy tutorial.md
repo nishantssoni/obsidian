@@ -4,6 +4,8 @@ Status:
 
 Tags:
 
+[project for this note](https://github.com/nishantssoni/open_help_bot)
+
 ---
 
 ### the basic python code for ollama api 
@@ -312,14 +314,10 @@ return response.choices[0].message.content
 ![[Pasted image 20250322205618.png]]
 ![[Pasted image 20250322205750.png]]
 
-
-
-1:46
-
-
-
-
-
 ---
+ rule
+
 ## References
- [project for this note](https://github.com/nishantssoni/open_help_bot)
+ [[Long Format vs Wide format data]]
+ [[pivot and pivot table]]
+ [[Apriori recommendation engine]]
