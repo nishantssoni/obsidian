@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/code with jiffy tutorial.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "code with jiffy tutorial"
+              "title": "Home"
             }
           }
         ]
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,43 +203,43 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "6 - Zettelkasten/python pickle  and joblib module.md",
-    "3 - Tags/data.md",
-    "3 - Tags/storage.md",
-    "1 - Rough Notes/code with jiffy tutorial.md",
+    "2 - Source Material/Videos/umar jamil YTD/transformer architecture from scratch.md",
     "Home.md",
-    "6 - Zettelkasten/Apriori recommendation engine.md",
-    "3 - Tags/recommendation.md",
-    "6 - Zettelkasten/pivot and pivot table.md",
+    "Pasted image 20250514143240.png",
+    "Pasted image 20250514142108.png",
+    "Pasted image 20250514135246.png",
+    "Pasted image 20250514135125.png",
+    "2 - Source Material/Videos/umar jamil YTD",
+    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
+    "3 - Tags/AAC.md",
+    "3 - Tags/ai.md",
+    "3 - Tags/array.md",
+    "3 - Tags/broadcasting.md",
+    "3 - Tags/data.md",
+    "3 - Tags/data_structure.md",
+    "3 - Tags/data_types.md",
+    "3 - Tags/exception_handling.md",
+    "3 - Tags/fileio.md",
+    "3 - Tags/functions.md",
+    "3 - Tags/graph.md",
+    "3 - Tags/matplotlib.md",
+    "3 - Tags/maths.md",
+    "3 - Tags/installations.md",
+    "3 - Tags/identifiers.md",
+    "3 - Tags/hotkeys.md",
+    "3 - Tags/prompts.md",
+    "3 - Tags/settings.md",
+    "3 - Tags/svm.md",
+    "3 - Tags/things_to_learn.md",
+    "3 - Tags/vector.md",
+    "6 - Zettelkasten/Building a Social API using Fast API.md",
     "attachment/Pasted image 20250322205206.png",
     "attachment/Pasted image 20250322205750.png",
     "attachment/Pasted image 20250322205618.png",
     "attachment/Pasted image 20250322205316.png",
-    "6 - Zettelkasten/Long Format vs Wide format data.md",
-    "3 - Tags/pandas.md",
-    "3 - Tags/data_wrangling.md",
     "attachment/Pasted image 20250319222438.png",
-    "6 - Zettelkasten/conda setup and commands.md",
-    "6 - Zettelkasten/Untitled.md",
-    "6 - Zettelkasten/Conda.md",
-    "4 - Index/Applied AI index.md",
-    "6 - Zettelkasten/Logistic Regression Code sample Logistic regression, GridSearchCV, RandomSearchCV.md",
-    "3 - Tags/regression.md",
-    "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
-    "6 - Zettelkasten/SVM Mathematical derivation.md",
-    "6 - Zettelkasten/SVM Loss function Hinge Loss based interpretation.md",
-    "6 - Zettelkasten/SVM Geometric intuition.md",
-    "6 - Zettelkasten/SVM Dual form of SVM formulation.md",
-    "6 - Zettelkasten/SVM Code Sample.md",
-    "6 - Zettelkasten/Solvers in Optimization Algorithms.md",
-    "6 - Zettelkasten/Sigmoid Function.md",
-    "6 - Zettelkasten/SGD algorithm Why L1 regularization creates sparsity.md",
     "2 - Source Material/Others/Unconfirmed 708610.crdownload",
     "2 - Source Material/Others/output_5_0.png",
-    "attachment/Pasted image 20250219130943.png",
-    "attachment/Pasted image 20250209052012.png",
-    "attachment/Pasted image 20250217085226.png",
-    "attachment/Pasted image 20250220205923.png",
     "Performance measurement R-Squared",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
@@ -247,7 +248,6 @@
     "Excalidraw",
     "Untitled.canvas",
     "attachment",
-    "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt",
-    "2 - Source Material/Others/Unconfirmed 51350.crdownload"
+    "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt"
   ]
 }
