@@ -11,9 +11,21 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "attachment/Pasted image 20250604165811.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250604165811"
+            }
+          },
+          {
+            "id": "4cf163c2a5a4a858",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "4 - Index/Gen AI campusX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Gen AI campusX"
             }
           }
         ]
@@ -184,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,14 +212,31 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "039859f3e2d2c42c",
   "lastOpenFiles": [
-    "2 - Source Material/Videos/umar jamil YTD/transformer architecture from scratch.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/4. LangChain Components.md",
+    "attachment/Pasted image 20250604165811.png",
+    "attachment/Pasted image 20250604164318.png",
+    "attachment/Pasted image 20250604164201.png",
+    "attachment/Pasted image 20250604164016.png",
+    "attachment/Pasted image 20250604161435.png",
+    "4 - Index/Gen AI campusX.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/3. Introduction to Langchain why do we need langchain.md",
     "Home.md",
-    "Pasted image 20250514143240.png",
-    "Pasted image 20250514142108.png",
-    "Pasted image 20250514135246.png",
-    "Pasted image 20250514135125.png",
+    "attachment/Pasted image 20250603100552.png",
+    "attachment/Pasted image 20250603100305.png",
+    "attachment/Pasted image 20250603095642.png",
+    "attachment/Pasted image 20250603094959.png",
+    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
+    "6 - Zettelkasten/RANSAC.md",
+    "3 - Tags/GenAI.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/1. GenAI Roadmap.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/2. GenAI using LangChain.md",
+    "4 - Index/Applied AI index.md",
+    "2 - Source Material/Videos/umar jamil YTD/transformer architecture from scratch.md",
+    "attachment/Pasted image 20250603091450.png",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist",
+    "2 - Source Material/Videos/campusX",
     "2 - Source Material/Videos/umar jamil YTD",
     "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
     "3 - Tags/AAC.md",
@@ -224,30 +252,13 @@
     "3 - Tags/graph.md",
     "3 - Tags/matplotlib.md",
     "3 - Tags/maths.md",
-    "3 - Tags/installations.md",
-    "3 - Tags/identifiers.md",
-    "3 - Tags/hotkeys.md",
-    "3 - Tags/prompts.md",
-    "3 - Tags/settings.md",
-    "3 - Tags/svm.md",
-    "3 - Tags/things_to_learn.md",
-    "3 - Tags/vector.md",
-    "6 - Zettelkasten/Building a Social API using Fast API.md",
-    "attachment/Pasted image 20250322205206.png",
-    "attachment/Pasted image 20250322205750.png",
-    "attachment/Pasted image 20250322205618.png",
-    "attachment/Pasted image 20250322205316.png",
-    "attachment/Pasted image 20250319222438.png",
     "2 - Source Material/Others/Unconfirmed 708610.crdownload",
-    "2 - Source Material/Others/output_5_0.png",
     "Performance measurement R-Squared",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Naive Bayes Laplace",
     "7 - Calendar",
     "Excalidraw",
-    "Untitled.canvas",
-    "attachment",
-    "2 - Source Material/Others/[AppliedAiCourse]Applied Machine learning.txt"
+    "Untitled.canvas"
   ]
 }

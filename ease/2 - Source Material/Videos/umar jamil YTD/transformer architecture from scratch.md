@@ -43,9 +43,7 @@ class PositionalEncoding(nn.Module):
 		super().__init__()
 		self.d_model = d_model # embedding dimension
 		self.seq_len = seq_len # sequence length (number of tokens)
-		self.dropout = nn.Dropout(p=dropout) # dropout (to avoid overfitting)
-	
-	  
+		self.dropout = nn.Dropout(p=dropout) # to avoid overfitting
 	
 	# create a matrix of shape (seq_len, d_model)
 		pe = torch.zeros(seq_len, d_model)
