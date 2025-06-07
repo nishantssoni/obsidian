@@ -22,7 +22,7 @@
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
-  "addSearchBar": false,
+  "addSearchBar": true,
   "addGraphView": true,
   "addTitle": true,
   "addRSSFeed": true,
@@ -46,7 +46,7 @@
   "exportPath": "/home/nishant/Desktop/obsidian_notes",
   "filesToExport": [
     [
-      "4 - Index"
+      "2 - Source Material/Videos/campusX"
     ]
   ]
 }

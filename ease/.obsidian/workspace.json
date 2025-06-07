@@ -13,34 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "attachment/Pasted image 20250604165811.png"
+                "file": "attachment/Pasted image 20250604170212.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250604165811"
-            }
-          },
-          {
-            "id": "4cf163c2a5a4a858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Index/Gen AI campusX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gen AI campusX"
+              "title": "Pasted image 20250604170212"
             }
           }
         ]
@@ -100,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.50043487548828
+    "width": 200
   },
   "right": {
     "id": "30460942be240230",
@@ -182,7 +158,7 @@
             }
           },
           {
-            "id": "4969ec95080f2399",
+            "id": "422212f9c8b4eab8",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -214,27 +190,32 @@
   },
   "active": "039859f3e2d2c42c",
   "lastOpenFiles": [
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/5. LangChain Models.md",
+    "Home.md",
+    "attachment/Pasted image 20250606233407.png",
+    "attachment/Pasted image 20250606214326.png",
+    "4 - Index/Gen AI campusX.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist/4. LangChain Components.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/3. Introduction to Langchain why do we need langchain.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/1. GenAI Roadmap.md",
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/Performance measurement Confusion matrix, TPR, FPR, FNR, TNR.md",
+    "2 - Source Material/Videos/umar jamil YTD/transformer architecture from scratch.md",
+    "6 - Zettelkasten/Linear Regression Mathematical formulation.md",
+    "6 - Zettelkasten/Logistic Regression Extensions to Logistic Regression Generalized linear models (GLM).md",
+    "6 - Zettelkasten/Logistic Regression Column Standardization.md",
+    "attachment/Pasted image 20250604211213.png",
+    "attachment/Pasted image 20250604172032.png",
+    "attachment/Pasted image 20250604171911.png",
+    "attachment/Pasted image 20250604170212.png",
     "attachment/Pasted image 20250604165811.png",
     "attachment/Pasted image 20250604164318.png",
     "attachment/Pasted image 20250604164201.png",
     "attachment/Pasted image 20250604164016.png",
-    "attachment/Pasted image 20250604161435.png",
-    "4 - Index/Gen AI campusX.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/3. Introduction to Langchain why do we need langchain.md",
-    "Home.md",
-    "attachment/Pasted image 20250603100552.png",
-    "attachment/Pasted image 20250603100305.png",
-    "attachment/Pasted image 20250603095642.png",
-    "attachment/Pasted image 20250603094959.png",
     "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
     "6 - Zettelkasten/RANSAC.md",
     "3 - Tags/GenAI.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/1. GenAI Roadmap.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist/2. GenAI using LangChain.md",
-    "4 - Index/Applied AI index.md",
-    "2 - Source Material/Videos/umar jamil YTD/transformer architecture from scratch.md",
-    "attachment/Pasted image 20250603091450.png",
     "2 - Source Material/Videos/campusX/generativeAI Playlist",
     "2 - Source Material/Videos/campusX",
     "2 - Source Material/Videos/umar jamil YTD",
@@ -247,11 +228,6 @@
     "3 - Tags/data_structure.md",
     "3 - Tags/data_types.md",
     "3 - Tags/exception_handling.md",
-    "3 - Tags/fileio.md",
-    "3 - Tags/functions.md",
-    "3 - Tags/graph.md",
-    "3 - Tags/matplotlib.md",
-    "3 - Tags/maths.md",
     "2 - Source Material/Others/Unconfirmed 708610.crdownload",
     "Performance measurement R-Squared",
     "2 - Source Material/Important Links",
