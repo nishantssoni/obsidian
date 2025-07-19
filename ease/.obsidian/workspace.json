@@ -11,12 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachment/Pasted image 20250604170212.png"
+                "file": "2 - Source Material/Others/Configuring Ollama + n8n Docker Connectivity on Raspberry Pi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250604170212"
+              "icon": "lucide-file",
+              "title": "Configuring Ollama + n8n Docker Connectivity on Raspberry Pi"
             }
           }
         ]
@@ -76,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5086555480957
   },
   "right": {
     "id": "30460942be240230",
@@ -172,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,46 +201,47 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "039859f3e2d2c42c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/5. LangChain Models.md",
+    "3 - Tags/n8n.md",
+    "2 - Source Material/Others/Configuring Ollama + n8n Docker Connectivity on Raspberry Pi.md",
+    "attachment/Pasted image 20250619104405.png",
     "Home.md",
-    "attachment/Pasted image 20250606233407.png",
-    "attachment/Pasted image 20250606214326.png",
+    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/5. LangChain Models.md",
+    "2 - Source Material/Videos/minIO Bucket storage like S3.md",
+    "attachment/Pasted image 20250616224930.png",
+    "attachment/Pasted image 20250617001413.png",
+    "attachment/Pasted image 20250617001214.png",
+    "attachment/Pasted image 20250616235752.png",
+    "attachment/Pasted image 20250616235500.png",
+    "attachment/Pasted image 20250616233602.png",
+    "attachment/Pasted image 20250616233409.png",
+    "attachment/Pasted image 20250616233105.png",
+    "attachment/Pasted image 20250616232914.png",
+    "3 - Tags/AWS.md",
     "4 - Index/Gen AI campusX.md",
+    "6 - Zettelkasten/Linear Regression Mathematical formulation.md",
+    "4 - Index/Applied AI index.md",
+    "6 - Zettelkasten/Performance measurement MAPE.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist/4. LangChain Components.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist/3. Introduction to Langchain why do we need langchain.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/2. GenAI using LangChain.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist/1. GenAI Roadmap.md",
-    "4 - Index/Applied AI index.md",
     "6 - Zettelkasten/Performance measurement Confusion matrix, TPR, FPR, FNR, TNR.md",
     "2 - Source Material/Videos/umar jamil YTD/transformer architecture from scratch.md",
-    "6 - Zettelkasten/Linear Regression Mathematical formulation.md",
     "6 - Zettelkasten/Logistic Regression Extensions to Logistic Regression Generalized linear models (GLM).md",
     "6 - Zettelkasten/Logistic Regression Column Standardization.md",
-    "attachment/Pasted image 20250604211213.png",
-    "attachment/Pasted image 20250604172032.png",
-    "attachment/Pasted image 20250604171911.png",
-    "attachment/Pasted image 20250604170212.png",
-    "attachment/Pasted image 20250604165811.png",
-    "attachment/Pasted image 20250604164318.png",
-    "attachment/Pasted image 20250604164201.png",
-    "attachment/Pasted image 20250604164016.png",
     "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
     "6 - Zettelkasten/RANSAC.md",
     "3 - Tags/GenAI.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/2. GenAI using LangChain.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist",
     "2 - Source Material/Videos/campusX",
     "2 - Source Material/Videos/umar jamil YTD",
-    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
     "3 - Tags/AAC.md",
     "3 - Tags/ai.md",
     "3 - Tags/array.md",
     "3 - Tags/broadcasting.md",
-    "3 - Tags/data.md",
-    "3 - Tags/data_structure.md",
-    "3 - Tags/data_types.md",
-    "3 - Tags/exception_handling.md",
     "2 - Source Material/Others/Unconfirmed 708610.crdownload",
     "Performance measurement R-Squared",
     "2 - Source Material/Important Links",

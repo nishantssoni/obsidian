@@ -83,6 +83,7 @@ Let assume:
 - As a result, the learned weights are closer to the true values, such as **<2.01, 3.003, 0.002>**, reflecting reduced overfitting and improved generalization.
 
 
+
 # References
 [[Logistic Regression Geometric Intuition]]
 [[Logistic Regression L1 regularization and sparsity]]
