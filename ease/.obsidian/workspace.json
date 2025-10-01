@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Others/Configuring Ollama + n8n Docker Connectivity on Raspberry Pi.md",
+                "file": "2 - Source Material/Videos/campusX/generativeAI Playlist/4. LangChain Components.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Configuring Ollama + n8n Docker Connectivity on Raspberry Pi"
+              "title": "4. LangChain Components"
             }
           }
         ]
@@ -170,7 +170,7 @@
             }
           },
           {
-            "id": "422212f9c8b4eab8",
+            "id": "eb16acf4c1b4640d",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -184,11 +184,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,12 +203,31 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "3 - Tags/n8n.md",
-    "2 - Source Material/Others/Configuring Ollama + n8n Docker Connectivity on Raspberry Pi.md",
-    "attachment/Pasted image 20250619104405.png",
-    "Home.md",
-    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/3. Introduction to Langchain why do we need langchain.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/2. GenAI using LangChain.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/1. GenAI Roadmap.md",
+    "attachment/Pasted image 20250603090617.png",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/6. Prompt in Langchain.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist/5. LangChain Models.md",
+    "Home.md",
+    "2 - Source Material/Videos/ali abdaal/Anki Masterclass/How to Study for Exams with Flashcards (Anki Masterclass).md",
+    "2 - Source Material/Videos/ali abdaal/Anki Masterclass",
+    "2 - Source Material/Videos/ali abdaal",
+    "2 - Source Material/Others/coolify internal docker network connections.md",
+    "2 - Source Material/Others/Configuring Ollama + n8n Docker Connectivity on Raspberry Pi.md",
+    "2 - Source Material/Others/coolify n8n-supabase connection.md",
+    "1 - Rough Notes/code with jiffy tutorial.md",
+    "1 - Rough Notes/n8n nots.md",
+    "2 - Source Material/Videos/campusX/generativeAI Playlist/4. LangChain Components.md",
+    "2 - Source Material/Others/Expose Supabase Studio UI (port 3000) running in Docker  on your  Coolify server locally on your LAN without exposing to the public.md",
+    "2 - Source Material/Others/seeing sql in terminal.md",
+    "2 - Source Material/Others/ssh key and authentications.md",
+    "2 - Source Material/Others/temp.md",
+    "1 - Rough Notes/temp.md",
+    "Pasted image 20250723113702.png",
+    "3 - Tags/n8n.md",
+    "attachment/Pasted image 20250619104405.png",
+    "Excalidraw/Drawing 2025-01-29 16.42.01.excalidraw.md",
     "2 - Source Material/Videos/minIO Bucket storage like S3.md",
     "attachment/Pasted image 20250616224930.png",
     "attachment/Pasted image 20250617001413.png",
@@ -217,38 +236,19 @@
     "attachment/Pasted image 20250616235500.png",
     "attachment/Pasted image 20250616233602.png",
     "attachment/Pasted image 20250616233409.png",
-    "attachment/Pasted image 20250616233105.png",
-    "attachment/Pasted image 20250616232914.png",
     "3 - Tags/AWS.md",
     "4 - Index/Gen AI campusX.md",
     "6 - Zettelkasten/Linear Regression Mathematical formulation.md",
     "4 - Index/Applied AI index.md",
     "6 - Zettelkasten/Performance measurement MAPE.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/4. LangChain Components.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/3. Introduction to Langchain why do we need langchain.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/2. GenAI using LangChain.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/1. GenAI Roadmap.md",
-    "6 - Zettelkasten/Performance measurement Confusion matrix, TPR, FPR, FNR, TNR.md",
-    "2 - Source Material/Videos/umar jamil YTD/transformer architecture from scratch.md",
-    "6 - Zettelkasten/Logistic Regression Extensions to Logistic Regression Generalized linear models (GLM).md",
-    "6 - Zettelkasten/Logistic Regression Column Standardization.md",
-    "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
-    "6 - Zettelkasten/RANSAC.md",
-    "3 - Tags/GenAI.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist",
     "2 - Source Material/Videos/campusX",
     "2 - Source Material/Videos/umar jamil YTD",
-    "3 - Tags/AAC.md",
-    "3 - Tags/ai.md",
-    "3 - Tags/array.md",
-    "3 - Tags/broadcasting.md",
     "2 - Source Material/Others/Unconfirmed 708610.crdownload",
     "Performance measurement R-Squared",
     "2 - Source Material/Important Links",
     "attachment/Applied AI-Machine Learning course syllabus.pdf",
     "Naive Bayes Laplace",
-    "7 - Calendar",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
