@@ -1,5 +1,24 @@
-![[Pasted image 20250514135125.png]]
+2025-10-01 21:29
 
+Status:
+
+Tags:
+
+[Youtube Link](https://youtu.be/bCz4OMemCcA?si=dSIkzMWFgtPt86Ov)
+
+---
+
+### The problems with RNN (among Others)
+1. **Slow Computation for Long Sequences:**
+	 RNNs process sequences step-by-step, which is slow for long inputs since steps can’t be done in parallel. Transformers use self-attention to process all parts of a sequence simultaneously, making computation much faster and more efficient[citation].[ibm](https://www.ibm.com/think/topics/transformer-model)
+2. **Vanishing or Exploding Gradients**:
+    RNNs suffer from gradients that either shrink or grow too much during training, hurting learning especially for long sequences. Transformers avoid this by connecting all positions directly, preventing these gradient issues and enabling stable training[citation].[superdatascience](https://www.superdatascience.com/blogs/recurrent-neural-networks-rnn-the-vanishing-gradient-problem)
+3. **Difficulty Accessing Long-Term Information**  :
+    RNNs forget older information over time due to their sequential nature, making it hard to capture long-range dependencies. Transformers use self-attention to relate all parts of the input directly, so they can easily use information from anywhere in the sequence[citation].[kolena](https://www.kolena.com/guides/transformer-vs-rnn-4-key-differences-and-how-to-choose/)
+    
+
+![[Pasted image 20250514135125.png]]
+The left block is encoder and the right block is decoder.
 ### 1. input Embeddings
 ![[Pasted image 20250514135246.png]]
 - first we convert to a input ids and than into embedding which is then fed further
