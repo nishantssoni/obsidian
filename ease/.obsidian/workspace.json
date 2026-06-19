@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d23f339d76b520bd",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "58bc2c84f7d77f0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "6 - Zettelkasten/Logistic Regression Mathematic Formulation of Objective Function.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2026-06-19 14.23.13.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Logistic Regression Mathematic Formulation of Objective Function"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-19 14.23.13.excalidraw"
             }
           }
         ]
@@ -63,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hard  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5086555480957
+    "width": 427.5
   },
   "right": {
     "id": "30460942be240230",
@@ -165,8 +153,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -184,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,54 +190,55 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "58bc2c84f7d77f0d",
   "lastOpenFiles": [
-    "6 - Zettelkasten/Logistic Regression How does imbalance data impact LR geometrically.md",
-    "6 - Zettelkasten/Linear Regression Real world Cases.md",
-    "6 - Zettelkasten/Logistic Regression Collinearity of features.md",
-    "6 - Zettelkasten/Logistic Regression Column Standardization.md",
-    "6 - Zettelkasten/Interview Questions on Performance Measurement models Question & Answers.md",
-    "6 - Zettelkasten/Classification algorithms Train and test set differences.md",
-    "6 - Zettelkasten/Classification algorithms Multi-class classification.md",
-    "6 - Zettelkasten/Classification algorithms Feature importance & Forward Feature Selection.md",
-    "6 - Zettelkasten/Classification algorithms Curse of dimensionality.md",
-    "6 - Zettelkasten/Apriori recommendation engine.md",
-    "1 - Rough Notes/n8n nots.md",
-    "6 - Zettelkasten/Building a Social API using Fast API.md",
+    "attachment/Pasted image 20250616232914.png",
+    "Excalidraw/Drawing 2026-06-19 14.23.13.excalidraw.md",
+    "3 - Tags/pandas.md",
+    "6 - Zettelkasten/Python Lists a comprehensive guide.md",
+    "3 - Tags/data_structure.md",
+    "3 - Tags/broadcasting.md",
+    "3 - Tags/AAC.md",
+    "6 - Zettelkasten/Untitled 2.base",
+    "6 - Zettelkasten/SVM Why we take values +1 and -1 for support vector planes.md",
+    "6 - Zettelkasten/Untitled.base",
+    "6 - Zettelkasten/SVM Revision Questions.md",
+    "6 - Zettelkasten/SVM Mathematical derivation.md",
+    "6 - Zettelkasten/SVM Code Sample.md",
+    "6 - Zettelkasten/Solvers in Optimization Algorithms.md",
+    "6 - Zettelkasten/Python Things to learn for AI.md",
+    "6 - Zettelkasten/Python Control Flow.md",
+    "6 - Zettelkasten/PCA Why learn it.md",
+    "6 - Zettelkasten/PCA PCA for dimensionality reduction and visualization.md",
+    "6 - Zettelkasten/PCA PCA for dimensionality reduction (not visualization).md",
+    "6 - Zettelkasten/PCA Limitations of PCA.md",
+    "Pasted Image 20260619142533_843.png",
     "Home.md",
-    "2 - Source Material/Videos/umar jamil YTD/Attention is all you need (Transformer) - Model explanation (including math), Inference and Training.md",
+    "6 - Zettelkasten/Untitled 3.base",
+    "6 - Zettelkasten/Untitled 1.base",
+    "6 - Zettelkasten/Argmin and Argmax.md",
+    "6 - Zettelkasten/Building a Social API using Fast API.md",
+    "6 - Zettelkasten/NN zero to Hero by Andrej.md",
+    "4 - Index/Untitled.md",
     "2 - Source Material/Videos/minIO Bucket storage like S3.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/2. GenAI using LangChain.md",
-    "4 - Index/Gen AI campusX.md",
-    "4 - Index/Applied AI index.md",
-    "5 - Template/1. Main Notes.md",
-    "5 - Template/2. Calendar.md",
-    "2 - Source Material/Others/coolify internal docker network connections.md",
-    "2 - Source Material/Others/Configuring Ollama + n8n Docker Connectivity on Raspberry Pi.md",
-    "attachment/Pasted image 20250723113702.png",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/4. LangChain Components.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/3. Introduction to Langchain why do we need langchain.md",
-    "2 - Source Material/Videos/campusX/generativeAI Playlist/1. GenAI Roadmap.md",
-    "attachment/Pasted image 20250603090617.png",
+    "2 - Source Material/Videos/umar jamil YTD/Attention is all you need (Transformer) - Model explanation (including math), Inference and Training.md",
     "2 - Source Material/Videos/campusX/generativeAI Playlist/6. Prompt in Langchain.md",
+    "6 - Zettelkasten/Untitled 4.base",
+    "attachment/Pasted image 20250603091133.png",
+    "attachment/Pasted image 20250723113702.png",
+    "attachment/Pasted image 20250616233602.png",
+    "attachment/Pasted image 20250603094959.png",
+    "attachment/Pasted image 20250219131045.png",
+    "attachment/Pasted image 20250202142627.png",
+    "attachment/image.J5GC12.png",
+    "attachment/Drawing 2025-01-29 16.42.01.excalidraw 2.svg",
+    "attachment/Applied AI-Machine Learning course syllabus.pdf",
+    "attachment/02.05-broadcasting.png",
+    "8 -  planning/Untitled.canvas",
+    "8 -  planning",
     "2 - Source Material/Videos/ali abdaal/Anki Masterclass",
     "2 - Source Material/Videos/ali abdaal",
-    "attachment/Pasted image 20250619104405.png",
-    "attachment/Pasted image 20250616224930.png",
-    "attachment/Pasted image 20250617001413.png",
-    "attachment/Pasted image 20250617001214.png",
-    "attachment/Pasted image 20250616235752.png",
-    "attachment/Pasted image 20250616235500.png",
-    "attachment/Pasted image 20250616233602.png",
-    "attachment/Pasted image 20250616233409.png",
     "2 - Source Material/Videos/campusX/generativeAI Playlist",
-    "2 - Source Material/Videos/campusX",
-    "2 - Source Material/Videos/umar jamil YTD",
-    "2 - Source Material/Others/Unconfirmed 708610.crdownload",
-    "Performance measurement R-Squared",
-    "2 - Source Material/Important Links",
-    "attachment/Applied AI-Machine Learning course syllabus.pdf",
-    "Naive Bayes Laplace",
     "Untitled.canvas"
   ]
 }
