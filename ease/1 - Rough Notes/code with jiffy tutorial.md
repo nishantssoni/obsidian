@@ -2,7 +2,7 @@
 
 Status:
 
-Tags:
+Tags: [[matplotlib]] #hard 
 
 [project for this note](https://github.com/nishantssoni/open_help_bot)
 
